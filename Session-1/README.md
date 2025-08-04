@@ -12,7 +12,7 @@
 
 ## Materials 📚
 
-- [Session Slides](Session_1.pdf)
+- [Session Slides](Session-1.pdf)
 
 ## Task 💻
 
