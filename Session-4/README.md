@@ -15,6 +15,8 @@
 ## Materials 📚
 
 - [Session Slides](Session-4.pdf)
+- Find all the example scripts and hands-on solutions in the `examples` folder, [here](./examples/).
+
 
 ## Task 💻
 
