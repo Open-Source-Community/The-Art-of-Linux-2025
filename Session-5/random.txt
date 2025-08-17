@@ -1,0 +1,14 @@
+john.doe@example.com
+jane_smith99@mail.org
+12-03-2019
+support@company.co.uk
+1234-5678-9876-5432
+9876-5432-1234-8765
+16/08/2025
+31-12-1999
+21/05/2018
+01/12/2020
+random.text@notemail
+contact@website.com
+4444-3333-2222-1111
+2029170321@fcis.asu.edu.eg
