@@ -4,6 +4,8 @@ This repository houses the materials for OSC's Linux summer training '25.
 
 You can find video recordings of the content in [this playlist](https://www.youtube.com/playlist?list=PLanhLNyaKYBl1UNlJi30L5kk9YueHwhXO).
 
+Also, check out all the [tasks](Tasks/) and the [final evaluation](Evaluation/).
+
 | Session                  | Title                               | Covered Topics                                                                                                                                                           |
 | ------------------------ | ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | [Session #1](/Session-1) | Intro to Linux and the Command Line | - Open source <br> - Linux history & architecture <br> - Linux environments <br> - Command line basics                                                                   |

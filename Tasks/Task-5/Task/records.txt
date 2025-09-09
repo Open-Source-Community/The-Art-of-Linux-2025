@@ -1,0 +1,4999 @@
+Riley,2025-09-03,Late
+Peyton,2025-02-15,Absent
+Taylor,2025-11-13,Late
+Alex,2025-10-20,Late
+Morgan,2025-02-12,Late
+Jamie,2025-08-22,On Leave
+Riley,2025-01-26,Absent
+Alex,2025-04-13,Late
+Quinn,2025-11-26,Present
+Avery,2025-08-18,On Leave
+Casey,2025-07-09,Absent
+Morgan,2025-04-29,Late
+Alex,2025-03-02,On Leave
+Quinn,2025-08-17,On Leave
+Alex,2025-11-04,Late
+Riley,2025-09-30,On Leave
+Peyton,2025-08-29,Present
+Jordan,2025-12-19,On Leave
+Jamie,2025-05-28,Present
+Jordan,2025-12-03,Absent
+Quinn,2025-05-16,On Leave
+Taylor,2025-03-04,Absent
+Quinn,2025-04-19,Absent
+Jordan,2025-11-23,On Leave
+Jordan,2025-03-28,Late
+Casey,2025-02-15,On Leave
+Jordan,2025-06-16,Absent
+Jordan,2025-05-01,Late
+Alex,2025-03-27,Late
+Jamie,2025-04-27,Present
+Riley,2025-02-25,On Leave
+Quinn,2025-04-07,On Leave
+Quinn,2025-01-13,Present
+Morgan,2025-04-06,On Leave
+Riley,2025-10-29,Present
+Taylor,2025-10-07,On Leave
+Jordan,2025-06-02,On Leave
+Taylor,2025-10-23,On Leave
+Jordan,2025-03-17,Absent
+Peyton,2025-09-23,Present
+Jamie,2025-04-24,Absent
+Taylor,2025-05-11,On Leave
+Jordan,2025-01-17,Late
+Casey,2025-05-27,Late
+Casey,2025-11-04,Late
+Alex,2025-10-31,Present
+Jamie,2025-12-15,Absent
+Morgan,2025-02-26,Present
+Quinn,2025-07-07,On Leave
+Morgan,2025-02-07,Late
+Avery,2025-03-19,On Leave
+Alex,2025-05-20,Present
+Peyton,2025-08-07,Late
+Quinn,2025-03-29,Present
+Peyton,2025-05-01,Late
+Jamie,2025-11-16,Present
+Morgan,2025-11-21,Present
+Taylor,2025-08-13,Absent
+Taylor,2025-01-26,On Leave
+Riley,2025-08-25,Present
+Avery,2025-07-04,Absent
+Taylor,2025-05-21,On Leave
+Jamie,2025-11-19,Absent
+Jamie,2025-06-14,Late
+Alex,2025-09-19,On Leave
+Jordan,2025-03-24,Present
+Avery,2025-07-26,On Leave
+Avery,2025-02-18,On Leave
+Riley,2025-07-30,On Leave
+Quinn,2025-02-20,On Leave
+Riley,2025-10-10,Present
+Casey,2025-12-28,Present
+Taylor,2025-10-18,Absent
+Taylor,2025-06-28,Present
+Jordan,2025-06-25,Absent
+Jordan,2025-11-23,Late
+Taylor,2025-01-24,On Leave
+Peyton,2025-10-08,On Leave
+Alex,2025-04-20,Present
+Morgan,2025-08-22,On Leave
+Alex,2025-08-01,Late
+Quinn,2025-01-01,Late
+Jordan,2025-06-09,On Leave
+Riley,2025-10-02,Late
+Jordan,2025-02-18,Late
+Alex,2025-10-08,On Leave
+Avery,2025-07-03,Absent
+Casey,2025-02-16,Absent
+Casey,2025-10-10,Present
+Peyton,2025-01-06,Absent
+Peyton,2025-06-28,Absent
+Riley,2025-07-09,On Leave
+Morgan,2025-01-01,Absent
+Peyton,2025-06-21,Absent
+Taylor,2025-07-09,On Leave
+Jordan,2025-03-14,On Leave
+Riley,2025-09-16,On Leave
+Jordan,2025-07-26,On Leave
+Quinn,2025-06-11,Absent
+Peyton,2025-01-13,Late
+Alex,2025-07-19,Present
+Avery,2025-07-14,Absent
+Alex,2025-01-11,Late
+Quinn,2025-10-24,Absent
+Alex,2025-04-21,Present
+Jordan,2025-03-22,Absent
+Casey,2025-08-06,Present
+Riley,2025-07-05,Late
+Taylor,2025-10-24,Late
+Quinn,2025-08-06,Late
+Jordan,2025-11-02,Absent
+Jordan,2025-02-08,Present
+Riley,2025-01-01,Absent
+Jordan,2025-12-16,On Leave
+Casey,2025-01-18,Late
+Riley,2025-04-11,On Leave
+Jamie,2025-03-11,On Leave
+Morgan,2025-11-11,Present
+Peyton,2025-07-12,On Leave
+Avery,2025-12-08,On Leave
+Alex,2025-12-14,Present
+Riley,2025-08-01,Late
+Casey,2025-06-16,Present
+Avery,2025-09-17,Absent
+Alex,2025-08-10,On Leave
+Peyton,2025-03-08,Late
+Casey,2025-05-09,Absent
+Peyton,2025-08-14,Present
+Taylor,2025-11-10,Absent
+Riley,2025-07-24,On Leave
+Alex,2025-08-16,Absent
+Peyton,2025-08-18,Present
+Peyton,2025-02-01,Present
+Helen,2025-02-17,On Leave
+Jamie,2025-11-22,Late
+Morgan,2025-06-18,On Leave
+Taylor,2025-10-29,Present
+Morgan,2025-07-17,Absent
+Casey,2025-06-17,Late
+Jamie,2025-10-23,Absent
+Casey,2025-10-30,On Leave
+Riley,2025-02-04,Present
+Alex,2025-05-21,Absent
+Peyton,2025-03-08,Late
+Dennis,2025-06-17,Late
+Avery,2025-02-22,Present
+Morgan,2025-06-11,Late
+Riley,2025-08-23,On Leave
+Avery,2025-02-03,Present
+Peyton,2025-05-31,Absent
+Jordan,2025-11-20,Present
+Quinn,2025-08-27,Present
+Jordan,2025-10-09,Late
+Quinn,2025-05-31,On Leave
+Quinn,2025-03-16,Absent
+Taylor,2025-09-16,Absent
+Casey,2025-07-30,Absent
+Morgan,2025-07-08,On Leave
+Quinn,2025-02-05,On Leave
+Alex,2025-04-18,Present
+Morgan,2025-06-07,On Leave
+Alex,2025-07-12,Present
+Casey,2025-03-06,On Leave
+Alex,2025-07-03,Late
+Taylor,2025-09-01,On Leave
+Morgan,2025-04-17,Present
+Jamie,2025-08-25,On Leave
+Andrew,2025-10-30,Late
+Peyton,2025-08-16,Late
+Peyton,2025-10-02,Absent
+Alex,2025-03-09,On Leave
+Jordan,2025-08-26,Absent
+Alex,2025-06-06,Present
+Jordan,2025-07-21,Present
+Alex,2025-05-28,Late
+Avery,2025-07-31,On Leave
+Jamie,2025-12-31,Present
+Jordan,2025-07-12,Absent
+Jordan,2025-12-09,Absent
+Riley,2025-03-30,On Leave
+Morgan,2025-10-19,Late
+Casey,2025-05-21,On Leave
+Alex,2025-04-15,On Leave
+Peyton,2025-03-22,Late
+Alex,2025-10-31,Present
+Morgan,2025-10-30,Absent
+Taylor,2025-03-02,On Leave
+Jamie,2025-03-08,Absent
+Avery,2025-10-08,On Leave
+Quinn,2025-04-25,Present
+Jordan,2025-08-10,On Leave
+Quinn,2025-09-12,Present
+Peyton,2025-07-11,On Leave
+Alex,2025-06-07,Absent
+Peyton,2025-11-30,Absent
+Alex,2025-06-24,Absent
+Jordan,2025-03-05,On Leave
+Quinn,2025-06-02,Late
+Riley,2025-12-26,Absent
+Alex,2025-01-31,On Leave
+Riley,2025-11-06,Absent
+Jordan,2025-04-14,Late
+Jamie,2025-10-04,Late
+Jordan,2025-07-01,Absent
+Riley,2025-07-31,On Leave
+Casey,2025-01-24,Late
+Riley,2025-04-16,Late
+Avery,2025-03-19,Late
+Taylor,2025-10-14,Absent
+Jordan,2025-08-17,On Leave
+Quinn,2025-06-27,Absent
+Casey,2025-10-18,Late
+Morgan,2025-04-23,On Leave
+Riley,2025-04-19,Absent
+Quinn,2025-05-11,On Leave
+Casey,2025-05-21,Present
+Quinn,2025-10-12,Present
+Jordan,2025-05-01,On Leave
+Riley,2025-10-01,Present
+Alex,2025-09-04,On Leave
+Patricia,2025-09-03,Absent
+Morgan,2025-04-20,Absent
+Avery,2025-09-02,Late
+Morgan,2025-06-14,On Leave
+Morgan,2025-01-25,Absent
+Riley,2025-04-21,Absent
+Jordan,2025-10-28,On Leave
+Riley,2025-09-03,Present
+Morgan,2025-12-10,Absent
+Peyton,2025-09-13,On Leave
+Riley,2025-09-15,Present
+Peyton,2025-08-15,Absent
+Taylor,2025-12-18,Present
+Jamie,2025-02-28,Present
+Avery,2025-08-01,Present
+Peyton,2025-10-01,Present
+Peyton,2025-02-11,Absent
+Jordan,2025-10-03,Present
+Peyton,2025-06-10,On Leave
+Casey,2025-03-11,Present
+Casey,2025-05-09,On Leave
+Riley,2025-08-10,Late
+Riley,2025-02-25,Late
+Casey,2025-09-10,On Leave
+Alex,2025-03-31,Present
+Alex,2025-03-08,On Leave
+Casey,2025-05-27,Present
+Quinn,2025-01-29,Late
+Alex,2025-11-05,Present
+Morgan,2025-04-07,Present
+Casey,2025-07-30,Present
+Avery,2025-03-21,Late
+Alex,2025-08-19,Present
+Avery,2025-06-04,On Leave
+Jordan,2025-05-20,On Leave
+Alex,2025-12-01,Present
+Alex,2025-07-06,Late
+Morgan,2025-12-19,Present
+Avery,2025-09-30,Late
+Alex,2025-03-07,On Leave
+Riley,2025-01-28,Late
+Jamie,2025-06-23,On Leave
+Alex,2025-03-25,Absent
+Peyton,2025-05-12,On Leave
+Jordan,2025-02-25,On Leave
+Quinn,2025-03-13,Present
+Alex,2025-10-01,On Leave
+Avery,2025-02-02,Present
+Avery,2025-06-21,On Leave
+Jordan,2025-08-02,Late
+Peyton,2025-08-10,Late
+Peyton,2025-06-30,Present
+Riley,2025-08-11,On Leave
+Morgan,2025-03-24,On Leave
+Peyton,2025-03-05,Late
+Riley,2025-09-12,Present
+Avery,2025-08-28,Late
+Jamie,2025-09-07,On Leave
+Avery,2025-04-30,Late
+Alex,2025-08-25,On Leave
+Casey,2025-04-27,On Leave
+Morgan,2025-03-12,On Leave
+Taylor,2025-05-21,Present
+Avery,2025-04-16,Present
+Peyton,2025-05-26,Present
+Avery,2025-08-22,Present
+Casey,2025-07-14,Late
+Quinn,2025-07-07,Late
+Peyton,2025-06-08,Present
+Avery,2025-01-01,Late
+Casey,2025-03-05,Present
+Avery,2025-06-04,Present
+Jordan,2025-03-25,Absent
+Taylor,2025-05-24,Present
+Taylor,2025-12-02,Present
+Jordan,2025-09-15,Present
+Taylor,2025-02-22,Absent
+Riley,2025-10-05,Present
+Avery,2025-11-04,On Leave
+Avery,2025-12-05,On Leave
+Alex,2025-02-07,Absent
+Morgan,2025-09-04,Late
+Avery,2025-02-06,On Leave
+Jamie,2025-07-11,Late
+Peyton,2025-03-31,On Leave
+Alex,2025-09-26,Present
+Jordan,2025-12-17,Late
+Taylor,2025-05-07,On Leave
+Peyton,2025-06-03,Late
+Casey,2025-09-16,On Leave
+Morgan,2025-01-12,On Leave
+Casey,2025-04-18,Absent
+Casey,2025-09-25,Present
+Jordan,2025-12-25,Present
+Jamie,2025-10-13,Absent
+Riley,2025-12-08,Present
+Morgan,2025-01-12,On Leave
+Peyton,2025-11-06,Late
+Jordan,2025-12-11,On Leave
+Avery,2025-07-14,On Leave
+Peyton,2025-06-27,Absent
+Morgan,2025-11-06,Absent
+Taylor,2025-01-29,Present
+Avery,2025-04-16,Absent
+Alex,2025-10-02,Present
+Jordan,2025-04-27,Late
+Avery,2025-01-19,Absent
+Alex,2025-12-15,Late
+Riley,2025-06-14,Present
+Avery,2025-05-12,Late
+Peyton,2025-04-12,Present
+Taylor,2025-03-20,Late
+Quinn,2025-03-18,Absent
+Avery,2025-04-07,Present
+Riley,2025-02-16,Present
+Riley,2025-11-07,On Leave
+Taylor,2025-07-28,On Leave
+Avery,2025-06-22,On Leave
+Jamie,2025-11-28,Late
+Quinn,2025-03-31,Absent
+Taylor,2025-12-08,On Leave
+Alex,2025-07-10,On Leave
+Quinn,2025-02-15,Absent
+Quinn,2025-09-03,Present
+Jordan,2025-10-29,On Leave
+Quinn,2025-08-02,Late
+Casey,2025-10-09,On Leave
+Avery,2025-06-22,Late
+Jordan,2025-10-26,Present
+Quinn,2025-01-07,Late
+Quinn,2025-01-03,Present
+Casey,2025-06-05,Late
+Casey,2025-03-24,On Leave
+Jamie,2025-07-03,Absent
+Quinn,2025-05-29,Present
+Peyton,2025-06-18,Late
+Alex,2025-11-30,On Leave
+Jamie,2025-02-08,Late
+Alex,2025-08-22,Present
+Riley,2025-04-28,On Leave
+Morgan,2025-02-27,Present
+Avery,2025-04-14,Late
+Casey,2025-09-10,Absent
+Casey,2025-03-20,Present
+Morgan,2025-02-18,On Leave
+Casey,2025-03-28,Absent
+Peyton,2025-07-29,On Leave
+Quinn,2025-01-06,On Leave
+Alex,2025-11-20,On Leave
+Alex,2025-03-17,Absent
+Riley,2025-04-29,Present
+Casey,2025-03-02,Late
+Peyton,2025-04-24,On Leave
+Avery,2025-09-29,Late
+Avery,2025-03-25,Absent
+Casey,2025-01-19,Absent
+Alexander,2025-07-05,Present
+Avery,2025-01-13,Absent
+Avery,2025-07-28,On Leave
+Riley,2025-11-24,Absent
+Avery,2025-12-30,On Leave
+Gary,2025-03-15,Late
+Jamie,2025-01-25,On Leave
+Jordan,2025-03-11,Present
+Morgan,2025-05-27,Present
+Riley,2025-12-12,Late
+Alex,2025-04-01,Present
+Morgan,2025-08-04,Present
+Jordan,2025-11-08,On Leave
+Jordan,2025-01-08,On Leave
+Jamie,2025-03-04,Absent
+Riley,2025-09-18,Late
+Avery,2025-08-06,Present
+Quinn,2025-12-17,Late
+Morgan,2025-01-15,Late
+Jerry,2025-08-25,On Leave
+Morgan,2025-09-05,Present
+Quinn,2025-11-17,Absent
+Morgan,2025-11-15,Absent
+Quinn,2025-12-05,On Leave
+Taylor,2025-11-07,Absent
+Morgan,2025-11-03,Present
+Quinn,2025-12-14,Present
+Avery,2025-01-19,Present
+Casey,2025-06-06,Absent
+Jordan,2025-05-24,Absent
+Casey,2025-10-22,Absent
+Riley,2025-05-02,Present
+Morgan,2025-04-07,Late
+Casey,2025-03-06,Late
+Jordan,2025-09-18,On Leave
+Quinn,2025-03-31,Present
+Quinn,2025-06-08,On Leave
+Jordan,2025-12-31,Late
+Alex,2025-04-21,Present
+Quinn,2025-03-03,On Leave
+Avery,2025-08-03,Present
+Alex,2025-03-19,Present
+Jamie,2025-12-20,Absent
+Alex,2025-03-29,Absent
+Peyton,2025-02-18,Present
+Alex,2025-11-17,Absent
+Peyton,2025-07-04,Absent
+Alex,2025-09-28,Absent
+Jordan,2025-02-26,Present
+Avery,2025-01-09,Absent
+Morgan,2025-01-26,Absent
+Riley,2025-10-23,Late
+Riley,2025-12-11,Absent
+Quinn,2025-11-13,Late
+Quinn,2025-08-26,On Leave
+Avery,2025-09-03,Late
+Morgan,2025-02-24,Late
+Quinn,2025-06-07,On Leave
+Alex,2025-10-24,Late
+Peyton,2025-09-20,Absent
+Jamie,2025-07-29,Present
+Jordan,2025-06-04,Late
+Riley,2025-10-17,Present
+Jordan,2025-03-04,Late
+Quinn,2025-07-28,Present
+Morgan,2025-06-29,On Leave
+Alex,2025-07-09,Present
+Jordan,2025-07-20,On Leave
+Angela,2025-03-31,Absent
+Jamie,2025-10-08,Absent
+Quinn,2025-05-04,Late
+Avery,2025-10-16,Late
+Morgan,2025-12-15,On Leave
+Quinn,2025-04-22,Absent
+Peyton,2025-08-29,Late
+Jamie,2025-07-18,Present
+Quinn,2025-01-26,Absent
+Casey,2025-02-19,Absent
+Quinn,2025-12-30,Present
+Morgan,2025-12-23,Present
+Peyton,2025-02-01,On Leave
+Joshua,2025-03-07,Present
+Casey,2025-11-24,On Leave
+Jamie,2025-03-14,Late
+Jamie,2025-12-12,Absent
+Alex,2025-01-17,Late
+Quinn,2025-01-18,On Leave
+Taylor,2025-12-15,Present
+Riley,2025-01-02,Absent
+Casey,2025-04-09,On Leave
+Taylor,2025-11-19,Absent
+Riley,2025-07-23,Absent
+Peyton,2025-08-27,On Leave
+Alex,2025-05-09,On Leave
+Riley,2025-07-06,Present
+Jamie,2025-12-30,On Leave
+Jamie,2025-06-13,Late
+Peyton,2025-05-25,On Leave
+Jordan,2025-11-02,Late
+Jamie,2025-03-19,Present
+Casey,2025-02-16,Absent
+Peyton,2025-10-21,Present
+Jamie,2025-06-22,On Leave
+Riley,2025-06-05,On Leave
+Jamie,2025-09-26,Absent
+Riley,2025-01-30,Late
+Alex,2025-12-28,Absent
+Quinn,2025-05-14,On Leave
+Avery,2025-07-01,Absent
+Jordan,2025-06-05,Present
+Avery,2025-01-08,Present
+Quinn,2025-08-27,Present
+Taylor,2025-11-19,Absent
+Quinn,2025-03-25,Absent
+Avery,2025-11-29,Absent
+Avery,2025-08-09,Absent
+Riley,2025-05-27,Absent
+Riley,2025-07-01,On Leave
+Peyton,2025-03-23,Absent
+Jordan,2025-06-17,Absent
+Alex,2025-12-07,Late
+Quinn,2025-06-27,On Leave
+Peyton,2025-11-01,Absent
+Quinn,2025-07-25,Present
+Peyton,2025-04-11,On Leave
+Jordan,2025-10-31,Absent
+Avery,2025-12-25,On Leave
+Jamie,2025-04-18,Present
+Morgan,2025-12-28,Late
+Jordan,2025-01-25,Present
+Taylor,2025-02-14,On Leave
+Quinn,2025-12-22,Present
+Taylor,2025-12-11,Late
+Riley,2025-01-02,Late
+Taylor,2025-05-03,Present
+Riley,2025-09-10,Absent
+Taylor,2025-08-28,Present
+Riley,2025-03-27,Absent
+Karen,2025-01-28,Late
+Taylor,2025-12-25,Late
+Avery,2025-12-23,Present
+Avery,2025-11-06,Late
+Peyton,2025-01-08,On Leave
+Morgan,2025-11-17,Present
+Peyton,2025-05-20,On Leave
+Peyton,2025-12-07,Absent
+Riley,2025-01-07,Late
+Casey,2025-07-21,Absent
+Taylor,2025-10-26,Present
+Morgan,2025-10-17,Absent
+Riley,2025-08-21,Late
+Jordan,2025-03-08,Late
+Jamie,2025-10-01,Absent
+Jordan,2025-04-16,Late
+Jordan,2025-02-13,Late
+Avery,2025-10-31,Present
+Morgan,2025-12-10,Absent
+Riley,2025-10-11,Late
+Alex,2025-06-29,Absent
+Quinn,2025-02-26,On Leave
+Taylor,2025-11-25,Late
+Jamie,2025-02-28,On Leave
+Riley,2025-06-18,Present
+Alex,2025-06-17,Present
+Avery,2025-10-09,On Leave
+Alex,2025-06-13,Absent
+Jamie,2025-08-18,Absent
+Alex,2025-02-05,Present
+Jordan,2025-12-24,Late
+Avery,2025-10-06,Late
+Taylor,2025-04-28,On Leave
+Casey,2025-10-23,Late
+Riley,2025-09-03,Late
+Jamie,2025-11-23,Absent
+Riley,2025-09-21,Late
+Peyton,2025-10-14,Present
+Patrick,2025-01-20,Absent
+Quinn,2025-11-09,Absent
+Casey,2025-04-10,On Leave
+Taylor,2025-02-25,On Leave
+Morgan,2025-04-14,Absent
+Alex,2025-06-28,Present
+Alex,2025-02-15,Late
+Morgan,2025-07-12,Absent
+Avery,2025-09-01,Absent
+Quinn,2025-11-14,Late
+Taylor,2025-09-21,Late
+Riley,2025-03-14,Late
+Jamie,2025-10-07,Present
+Peyton,2025-06-07,Late
+Riley,2025-11-09,On Leave
+Jamie,2025-01-19,Late
+Jamie,2025-05-08,Present
+Peyton,2025-07-26,Absent
+Riley,2025-04-30,Present
+Quinn,2025-11-16,Absent
+Quinn,2025-06-19,Present
+Jamie,2025-09-21,Present
+Peyton,2025-07-23,Absent
+Avery,2025-06-24,Present
+Morgan,2025-11-27,Absent
+Riley,2025-12-05,On Leave
+Peyton,2025-04-16,Late
+Quinn,2025-04-25,Present
+Casey,2025-03-27,Late
+Riley,2025-03-10,Absent
+Quinn,2025-12-21,Late
+Casey,2025-10-11,Absent
+Casey,2025-06-02,Absent
+Taylor,2025-11-26,Late
+Taylor,2025-07-17,Present
+Morgan,2025-06-11,Present
+Casey,2025-07-02,Absent
+Taylor,2025-03-07,Absent
+Quinn,2025-10-16,On Leave
+Casey,2025-12-18,On Leave
+Quinn,2025-03-16,On Leave
+Riley,2025-03-26,Absent
+Casey,2025-04-10,Late
+Jamie,2025-07-20,Present
+Riley,2025-09-13,Present
+Taylor,2025-11-13,Absent
+Quinn,2025-08-27,Late
+Avery,2025-01-01,Absent
+Peyton,2025-05-12,Absent
+Avery,2025-10-28,On Leave
+Morgan,2025-10-13,Present
+Taylor,2025-06-08,Late
+Casey,2025-03-22,On Leave
+Quinn,2025-10-24,Absent
+Alex,2025-08-03,Absent
+Steven,2025-03-10,Absent
+Jamie,2025-09-02,Present
+Jordan,2025-07-02,Absent
+Quinn,2025-06-15,On Leave
+Riley,2025-07-03,Late
+Jordan,2025-04-01,Late
+Peyton,2025-03-21,On Leave
+Peyton,2025-07-31,Present
+Avery,2025-10-12,Present
+Avery,2025-11-14,Late
+Avery,2025-04-24,Late
+Riley,2025-08-12,Present
+Riley,2025-09-22,Absent
+Peyton,2025-08-10,On Leave
+Avery,2025-07-27,On Leave
+Riley,2025-02-07,Present
+Avery,2025-12-13,Late
+Alex,2025-01-26,Late
+Riley,2025-01-24,Present
+Jamie,2025-11-13,Late
+Peyton,2025-02-20,Absent
+Jordan,2025-09-07,Late
+Taylor,2025-11-27,On Leave
+Jamie,2025-10-07,Late
+Jamie,2025-04-30,On Leave
+Avery,2025-12-30,Present
+Jamie,2025-09-10,Absent
+Quinn,2025-03-29,On Leave
+Jordan,2025-05-03,On Leave
+Riley,2025-04-20,Late
+Quinn,2025-12-24,Present
+Morgan,2025-12-09,On Leave
+Jamie,2025-07-06,On Leave
+Jamie,2025-06-29,Absent
+Jordan,2025-02-21,Absent
+Taylor,2025-01-27,Absent
+Avery,2025-09-30,On Leave
+Riley,2025-05-05,Late
+Alex,2025-08-03,On Leave
+Peyton,2025-12-03,Absent
+Peyton,2025-06-04,Late
+Peyton,2025-04-04,Absent
+Jamie,2025-05-19,Absent
+Peyton,2025-04-11,On Leave
+Jordan,2025-02-03,Absent
+Peyton,2025-03-10,Present
+Peyton,2025-08-02,Absent
+Avery,2025-09-05,On Leave
+Alex,2025-03-21,Present
+Quinn,2025-08-25,Present
+Taylor,2025-11-22,Absent
+Quinn,2025-11-28,Present
+Quinn,2025-12-18,On Leave
+Quinn,2025-06-29,Late
+Quinn,2025-10-21,Present
+Alex,2025-04-10,Absent
+Stephanie,2025-03-12,Present
+Casey,2025-10-30,Late
+Avery,2025-09-02,Absent
+Casey,2025-04-24,On Leave
+Avery,2025-04-22,Absent
+Jamie,2025-04-01,Present
+Peyton,2025-02-24,Present
+Quinn,2025-02-08,Late
+Peyton,2025-06-21,Present
+Riley,2025-11-02,Present
+Peyton,2025-01-02,On Leave
+Peyton,2025-01-14,Absent
+Casey,2025-09-07,Late
+Avery,2025-07-17,Late
+Peyton,2025-01-26,On Leave
+Avery,2025-10-02,Present
+Jordan,2025-01-24,Absent
+Jamie,2025-10-29,Absent
+Avery,2025-02-07,Late
+Riley,2025-11-21,Late
+Peyton,2025-11-19,Present
+Jordan,2025-05-08,On Leave
+Casey,2025-10-16,Present
+Peyton,2025-07-27,Absent
+Peyton,2025-05-10,Present
+Casey,2025-01-22,On Leave
+Taylor,2025-01-31,Late
+Avery,2025-11-10,Absent
+Quinn,2025-06-24,Absent
+Jordan,2025-09-12,Absent
+Taylor,2025-01-18,Absent
+Jordan,2025-05-10,Present
+Quinn,2025-05-20,Present
+Morgan,2025-05-18,Absent
+Quinn,2025-12-19,Late
+Riley,2025-09-11,On Leave
+Alex,2025-11-12,Present
+Casey,2025-03-31,Present
+Taylor,2025-01-27,Absent
+Alex,2025-08-11,Present
+Taylor,2025-02-19,Present
+Casey,2025-11-18,Present
+Peyton,2025-12-20,Absent
+Avery,2025-01-20,On Leave
+Taylor,2025-08-04,Absent
+Jordan,2025-01-16,Absent
+Morgan,2025-04-12,Absent
+Jordan,2025-01-11,Present
+Jordan,2025-03-18,Late
+Avery,2025-11-18,Present
+Peyton,2025-03-16,Present
+Morgan,2025-08-18,Late
+Riley,2025-11-02,On Leave
+Alex,2025-06-01,Present
+Alex,2025-05-30,Absent
+Alex,2025-04-12,Late
+Jordan,2025-04-01,Absent
+Casey,2025-08-23,Present
+Quinn,2025-11-23,Late
+Jamie,2025-04-12,Present
+Jamie,2025-04-23,Present
+Jamie,2025-03-18,Late
+Taylor,2025-10-12,Late
+Riley,2025-07-04,On Leave
+Morgan,2025-01-24,Late
+Alex,2025-08-08,Present
+Jamie,2025-06-14,Absent
+Quinn,2025-05-18,On Leave
+Morgan,2025-04-15,Present
+Casey,2025-09-06,On Leave
+Peyton,2025-04-16,On Leave
+Taylor,2025-07-17,On Leave
+Taylor,2025-11-22,Absent
+Avery,2025-09-21,Absent
+Taylor,2025-09-20,Late
+Casey,2025-04-30,Late
+Alex,2025-05-24,Late
+Morgan,2025-07-03,Present
+Jamie,2025-02-21,Late
+Alex,2025-09-13,Present
+Morgan,2025-03-11,On Leave
+Taylor,2025-12-17,Absent
+Casey,2025-11-29,On Leave
+Riley,2025-08-31,Late
+Morgan,2025-11-09,On Leave
+Jordan,2025-06-01,Late
+Casey,2025-09-05,Late
+Casey,2025-10-14,Present
+Taylor,2025-06-26,Present
+Riley,2025-07-29,On Leave
+Alex,2025-04-05,On Leave
+Quinn,2025-10-15,Late
+Peyton,2025-02-27,Present
+Peyton,2025-06-03,Late
+Taylor,2025-10-14,Late
+Jamie,2025-05-24,Late
+Casey,2025-11-07,Absent
+Peyton,2025-03-19,Present
+Morgan,2025-07-29,Late
+Morgan,2025-04-09,Late
+Taylor,2025-06-22,Late
+Taylor,2025-12-05,Late
+Jordan,2025-01-29,Absent
+Avery,2025-03-15,Present
+Jordan,2025-12-20,On Leave
+Morgan,2025-03-15,Absent
+Taylor,2025-04-17,Present
+Taylor,2025-02-19,Late
+Samantha,2025-05-21,Present
+Morgan,2025-11-24,On Leave
+Jamie,2025-04-03,Late
+Peyton,2025-09-25,On Leave
+Taylor,2025-12-31,Absent
+Morgan,2025-04-07,Present
+Casey,2025-03-27,Absent
+Casey,2025-12-10,Late
+Peyton,2025-12-25,Late
+Morgan,2025-10-19,Present
+Alex,2025-01-19,Late
+Jamie,2025-06-24,Present
+Avery,2025-02-16,Present
+Jordan,2025-11-02,Absent
+Casey,2025-08-24,On Leave
+Taylor,2025-10-09,Present
+Casey,2025-08-20,Late
+Morgan,2025-07-13,Late
+Quinn,2025-11-19,Late
+Alex,2025-01-15,Late
+Quinn,2025-07-08,On Leave
+Casey,2025-05-10,Late
+Alex,2025-05-13,Late
+Riley,2025-03-14,On Leave
+Taylor,2025-09-25,Absent
+Peyton,2025-08-26,Absent
+Avery,2025-08-24,Late
+Alex,2025-03-21,On Leave
+Quinn,2025-04-20,Present
+Alex,2025-05-12,On Leave
+Jamie,2025-08-22,Present
+Riley,2025-06-24,On Leave
+Jamie,2025-02-19,On Leave
+Taylor,2025-12-05,On Leave
+Riley,2025-09-14,Absent
+Peyton,2025-06-28,On Leave
+Jordan,2025-11-18,Present
+Morgan,2025-10-10,Present
+Alex,2025-10-22,Absent
+Jamie,2025-05-03,Absent
+Casey,2025-06-13,On Leave
+Casey,2025-01-17,Present
+Taylor,2025-02-02,Absent
+Peyton,2025-01-27,Present
+Alex,2025-10-19,On Leave
+Casey,2025-10-21,Absent
+Casey,2025-10-06,Late
+Taylor,2025-04-26,On Leave
+Morgan,2025-08-14,Absent
+Quinn,2025-12-13,On Leave
+Jamie,2025-03-23,Absent
+Quinn,2025-11-28,Present
+Taylor,2025-01-23,Present
+Jamie,2025-03-27,Present
+Jordan,2025-12-05,On Leave
+Jamie,2025-01-20,On Leave
+Alex,2025-08-30,Late
+Casey,2025-02-17,Present
+Taylor,2025-01-29,On Leave
+Avery,2025-11-26,Absent
+Jordan,2025-09-04,Late
+Riley,2025-09-13,On Leave
+Casey,2025-04-06,Present
+Taylor,2025-01-17,On Leave
+Alex,2025-04-16,On Leave
+Taylor,2025-07-06,Absent
+Casey,2025-11-05,Absent
+Jordan,2025-02-14,Late
+Morgan,2025-02-05,Absent
+Jordan,2025-07-29,Present
+Jordan,2025-01-23,Late
+Alex,2025-03-18,Absent
+Jamie,2025-03-01,Present
+Jamie,2025-03-19,On Leave
+Quinn,2025-08-10,On Leave
+Jamie,2025-12-27,Absent
+Avery,2025-09-15,On Leave
+Jamie,2025-04-20,On Leave
+Avery,2025-09-22,Late
+Casey,2025-08-29,Late
+Jordan,2025-06-11,On Leave
+Peyton,2025-09-29,On Leave
+Casey,2025-08-03,On Leave
+Peyton,2025-02-27,On Leave
+Quinn,2025-04-06,Late
+Jamie,2025-09-19,On Leave
+Morgan,2025-06-11,Absent
+Casey,2025-07-08,Late
+Taylor,2025-03-09,On Leave
+Casey,2025-06-20,On Leave
+Taylor,2025-03-23,Present
+Quinn,2025-07-13,Absent
+Jordan,2025-02-25,On Leave
+Alex,2025-10-14,Present
+Alex,2025-05-27,Late
+Morgan,2025-12-11,Late
+Casey,2025-10-28,Absent
+Jordan,2025-10-21,Absent
+Jordan,2025-02-25,Late
+Jamie,2025-09-19,Absent
+Casey,2025-08-10,Late
+Avery,2025-04-01,Absent
+Jordan,2025-12-04,On Leave
+Peyton,2025-01-05,Absent
+Peyton,2025-01-12,Absent
+Morgan,2025-11-04,Present
+Peyton,2025-02-26,Absent
+Morgan,2025-12-23,On Leave
+Taylor,2025-12-06,Present
+Peyton,2025-05-21,On Leave
+Morgan,2025-01-17,Absent
+Avery,2025-12-30,On Leave
+Peyton,2025-09-26,Late
+Jordan,2025-12-10,Present
+Peyton,2025-07-16,Late
+Avery,2025-02-25,On Leave
+Alex,2025-02-11,Late
+Taylor,2025-04-07,Absent
+Peyton,2025-04-11,Late
+Morgan,2025-03-01,On Leave
+Jordan,2025-03-27,Late
+Casey,2025-08-12,Absent
+Avery,2025-05-18,On Leave
+Morgan,2025-06-14,Present
+Jamie,2025-04-06,Late
+Taylor,2025-11-04,Absent
+Alex,2025-04-04,On Leave
+Alex,2025-11-05,Late
+Riley,2025-10-03,Present
+Riley,2025-12-19,Present
+Jamie,2025-07-30,Absent
+Casey,2025-07-28,Absent
+Quinn,2025-09-04,Present
+Morgan,2025-09-21,Absent
+Jordan,2025-06-06,Present
+Peyton,2025-09-19,Absent
+Quinn,2025-05-03,Late
+Casey,2025-02-27,Absent
+Jamie,2025-06-12,Absent
+Jamie,2025-10-17,Absent
+Casey,2025-08-05,Absent
+Jamie,2025-10-04,On Leave
+Riley,2025-12-05,Absent
+Riley,2025-04-21,On Leave
+Morgan,2025-10-30,Late
+Morgan,2025-10-14,Present
+Jamie,2025-03-17,Absent
+Jamie,2025-10-31,Present
+Jamie,2025-11-03,On Leave
+Alex,2025-10-25,Absent
+Casey,2025-12-31,Present
+Quinn,2025-04-26,On Leave
+Riley,2025-10-01,Late
+Quinn,2025-02-17,Absent
+Avery,2025-09-30,On Leave
+Riley,2025-02-10,Present
+Peyton,2025-06-27,Absent
+Peyton,2025-12-26,Present
+Riley,2025-06-09,On Leave
+Jamie,2025-01-21,Present
+Peyton,2025-07-20,On Leave
+Riley,2025-07-07,Present
+Alex,2025-06-16,Late
+Quinn,2025-05-11,Late
+Jamie,2025-11-30,Late
+Jamie,2025-01-18,Present
+Riley,2025-07-24,Absent
+Riley,2025-10-02,Present
+Jamie,2025-08-12,Present
+Peyton,2025-06-29,Absent
+Peyton,2025-05-26,Late
+Quinn,2025-04-11,Present
+Jordan,2025-02-20,Absent
+Avery,2025-11-05,On Leave
+Morgan,2025-08-04,On Leave
+Peyton,2025-10-22,Absent
+Jamie,2025-07-27,On Leave
+Morgan,2025-12-20,Absent
+Morgan,2025-01-04,On Leave
+Avery,2025-05-02,Late
+Riley,2025-08-20,On Leave
+Quinn,2025-05-12,On Leave
+Peyton,2025-04-06,Present
+Peyton,2025-04-12,Late
+Taylor,2025-03-20,Late
+Avery,2025-03-22,Late
+Jordan,2025-07-24,On Leave
+Morgan,2025-12-01,On Leave
+Quinn,2025-02-19,Late
+Riley,2025-09-19,Late
+Avery,2025-12-24,Late
+Peyton,2025-02-22,Late
+Peyton,2025-02-06,Late
+Alex,2025-10-08,Present
+Casey,2025-04-11,Present
+Peyton,2025-10-21,Present
+Quinn,2025-08-26,On Leave
+Quinn,2025-10-13,On Leave
+Peyton,2025-04-13,On Leave
+Peyton,2025-09-10,Absent
+Jamie,2025-04-01,Late
+Taylor,2025-08-25,Late
+Taylor,2025-07-06,Late
+Jamie,2025-08-21,Present
+Jordan,2025-06-11,On Leave
+Casey,2025-06-17,On Leave
+Morgan,2025-06-27,On Leave
+Riley,2025-08-19,On Leave
+Quinn,2025-08-28,Present
+Jordan,2025-01-23,On Leave
+Morgan,2025-01-08,Present
+Avery,2025-11-03,Late
+Morgan,2025-07-09,Present
+Alex,2025-06-05,Late
+Peyton,2025-06-01,On Leave
+Avery,2025-11-10,Absent
+Elizabeth,2025-02-21,Present
+Riley,2025-07-07,Present
+Taylor,2025-01-02,Absent
+Alex,2025-03-03,Absent
+Jamie,2025-10-21,Absent
+Peyton,2025-09-10,Absent
+Jamie,2025-11-29,Absent
+Casey,2025-08-30,Late
+Catherine,2025-02-10,On Leave
+Casey,2025-03-05,Absent
+Jordan,2025-03-01,Present
+Avery,2025-11-10,Absent
+Jamie,2025-11-22,On Leave
+James,2025-04-17,Late
+Alex,2025-04-07,Absent
+Avery,2025-08-22,Late
+Morgan,2025-11-27,Late
+Quinn,2025-02-07,Present
+Jamie,2025-06-08,On Leave
+Peyton,2025-07-23,Late
+Avery,2025-12-15,Late
+Morgan,2025-11-29,On Leave
+Alex,2025-11-05,On Leave
+Alex,2025-01-19,Late
+Riley,2025-01-26,Present
+Peyton,2025-09-17,Absent
+Quinn,2025-12-21,Late
+Larry,2025-02-03,Late
+Taylor,2025-03-16,On Leave
+Peyton,2025-06-21,Absent
+Jordan,2025-08-13,Late
+Alex,2025-07-11,Absent
+Peyton,2025-03-04,Late
+Quinn,2025-06-02,Present
+Peyton,2025-05-13,Absent
+Peyton,2025-07-01,Late
+Morgan,2025-06-03,On Leave
+Riley,2025-02-10,On Leave
+Peyton,2025-11-17,Present
+Morgan,2025-02-21,Absent
+Riley,2025-12-13,Late
+Peyton,2025-02-06,Absent
+Casey,2025-12-19,On Leave
+Jamie,2025-09-22,On Leave
+Taylor,2025-09-08,Late
+Morgan,2025-01-01,Absent
+Quinn,2025-09-22,Present
+Avery,2025-11-11,On Leave
+Morgan,2025-07-22,Late
+Casey,2025-08-01,Present
+Alex,2025-08-02,Present
+Peyton,2025-01-23,Late
+Avery,2025-01-09,On Leave
+Taylor,2025-12-24,On Leave
+Avery,2025-05-29,On Leave
+Taylor,2025-10-06,Present
+Alex,2025-01-19,Present
+Jordan,2025-04-14,Present
+Taylor,2025-12-13,Late
+Peyton,2025-12-16,Late
+Jordan,2025-10-06,Present
+Quinn,2025-07-13,Absent
+Jordan,2025-08-01,Present
+Jamie,2025-12-03,Present
+Jordan,2025-10-02,Present
+Jamie,2025-08-15,Present
+Alex,2025-11-11,On Leave
+Casey,2025-08-25,Absent
+Riley,2025-05-17,Present
+Taylor,2025-02-08,On Leave
+Casey,2025-05-02,On Leave
+Casey,2025-06-04,Present
+Jordan,2025-06-01,On Leave
+Avery,2025-09-18,Late
+Jamie,2025-01-13,Late
+Morgan,2025-09-01,Absent
+Casey,2025-08-16,Present
+Alex,2025-09-18,Late
+Morgan,2025-08-26,Present
+Jordan,2025-02-13,Present
+Taylor,2025-01-18,Present
+Casey,2025-07-17,On Leave
+Jordan,2025-02-05,Absent
+Casey,2025-01-30,On Leave
+Morgan,2025-11-28,Absent
+Quinn,2025-09-30,Absent
+Peyton,2025-03-14,On Leave
+Quinn,2025-09-20,On Leave
+Jordan,2025-02-11,On Leave
+Alex,2025-10-31,Present
+Quinn,2025-11-11,Absent
+Avery,2025-12-13,Late
+Alex,2025-08-29,On Leave
+Jordan,2025-10-24,Late
+Jamie,2025-08-16,Late
+Jordan,2025-11-29,Present
+Morgan,2025-02-28,On Leave
+Quinn,2025-06-15,Late
+Avery,2025-12-27,Late
+Avery,2025-04-08,On Leave
+Peyton,2025-05-31,Late
+Jamie,2025-10-30,Late
+Casey,2025-12-08,Late
+Riley,2025-05-27,Late
+Jordan,2025-02-05,Late
+Taylor,2025-03-17,Late
+Quinn,2025-12-31,On Leave
+Morgan,2025-09-24,On Leave
+Jamie,2025-04-26,Present
+Quinn,2025-01-16,Absent
+Casey,2025-07-04,Absent
+Jamie,2025-05-29,Absent
+Quinn,2025-03-25,On Leave
+Morgan,2025-06-17,Absent
+Jordan,2025-02-06,Present
+Avery,2025-09-08,Late
+Amy,2025-04-03,Absent
+Quinn,2025-03-14,Present
+Quinn,2025-01-10,Late
+Quinn,2025-10-02,Present
+Peyton,2025-04-06,Late
+Riley,2025-09-03,On Leave
+Quinn,2025-08-13,Absent
+Quinn,2025-09-04,Late
+Taylor,2025-04-24,On Leave
+Avery,2025-10-03,On Leave
+Jamie,2025-12-03,Absent
+Riley,2025-11-21,Late
+Jamie,2025-12-31,Absent
+Melissa,2025-05-25,Present
+Morgan,2025-10-23,On Leave
+Alex,2025-01-13,On Leave
+Jordan,2025-02-28,Absent
+Alex,2025-12-18,On Leave
+Alex,2025-06-12,On Leave
+Jordan,2025-05-22,Absent
+Alex,2025-04-12,On Leave
+Avery,2025-04-21,On Leave
+Jamie,2025-07-31,On Leave
+Alex,2025-09-03,Present
+Quinn,2025-12-26,Absent
+Riley,2025-02-04,Present
+Taylor,2025-06-04,Present
+Jordan,2025-12-12,Late
+Donna,2025-02-15,On Leave
+Jamie,2025-11-30,Late
+Casey,2025-02-10,On Leave
+Jamie,2025-12-17,Absent
+Taylor,2025-10-20,On Leave
+Jordan,2025-09-02,Absent
+Morgan,2025-10-09,Late
+Peyton,2025-12-26,Late
+Casey,2025-10-11,On Leave
+Ronald,2025-03-25,Absent
+Riley,2025-04-26,Late
+Casey,2025-09-12,On Leave
+Jamie,2025-12-26,Late
+Casey,2025-09-16,On Leave
+Morgan,2025-02-20,On Leave
+Riley,2025-12-13,Late
+Quinn,2025-08-11,On Leave
+Quinn,2025-07-05,Present
+Riley,2025-08-16,Late
+Riley,2025-07-03,Absent
+Jamie,2025-02-16,Late
+Riley,2025-07-30,On Leave
+Alex,2025-03-07,Late
+Morgan,2025-06-28,Present
+Jamie,2025-01-29,On Leave
+Riley,2025-07-23,Absent
+Jordan,2025-12-31,Absent
+Taylor,2025-06-11,On Leave
+Avery,2025-07-01,Absent
+Taylor,2025-11-11,Late
+Jamie,2025-01-06,Present
+Peyton,2025-12-15,Late
+Jamie,2025-07-16,On Leave
+Riley,2025-07-24,Absent
+Quinn,2025-04-02,Late
+Alex,2025-11-08,Late
+Peyton,2025-01-02,Absent
+Avery,2025-11-15,Absent
+Avery,2025-12-16,Present
+Peyton,2025-03-15,On Leave
+Alex,2025-07-16,Late
+Riley,2025-03-09,On Leave
+Jordan,2025-11-20,Late
+Jamie,2025-06-24,Absent
+Alex,2025-07-17,Present
+Alex,2025-04-28,Present
+Jordan,2025-07-31,On Leave
+Quinn,2025-02-07,Late
+Quinn,2025-08-21,Late
+Morgan,2025-06-10,Late
+Riley,2025-06-22,Late
+Peyton,2025-04-25,Absent
+Riley,2025-10-24,Absent
+Avery,2025-03-16,Late
+Jamie,2025-09-26,Late
+Jamie,2025-03-30,Present
+Taylor,2025-06-08,Late
+Casey,2025-06-19,Late
+Riley,2025-06-03,Absent
+Casey,2025-09-24,On Leave
+Morgan,2025-09-09,Late
+Peyton,2025-01-12,Late
+Taylor,2025-07-10,Late
+Riley,2025-05-31,Absent
+Jamie,2025-02-18,On Leave
+Morgan,2025-07-14,Present
+Taylor,2025-06-24,Late
+Taylor,2025-02-25,Absent
+Jordan,2025-07-28,Late
+Casey,2025-04-03,Absent
+Quinn,2025-09-05,On Leave
+Morgan,2025-08-29,On Leave
+Peyton,2025-02-25,On Leave
+Taylor,2025-09-03,Absent
+Morgan,2025-12-09,Absent
+Casey,2025-11-26,Late
+Quinn,2025-08-13,Present
+Taylor,2025-11-22,Absent
+Peyton,2025-11-14,On Leave
+Peyton,2025-03-24,On Leave
+Casey,2025-08-28,On Leave
+Peyton,2025-04-18,Absent
+Peyton,2025-01-25,On Leave
+Jamie,2025-04-11,Present
+Alex,2025-10-07,Absent
+Morgan,2025-02-06,Late
+Quinn,2025-07-07,Absent
+Quinn,2025-06-08,On Leave
+Jamie,2025-10-14,Absent
+Jamie,2025-02-24,Absent
+Avery,2025-07-31,On Leave
+Taylor,2025-06-03,Late
+Morgan,2025-09-30,Present
+Quinn,2025-06-20,On Leave
+Casey,2025-12-20,On Leave
+Sarah,2025-01-30,Absent
+Casey,2025-12-29,Late
+Alex,2025-04-13,Present
+Riley,2025-07-27,Absent
+Taylor,2025-03-22,Absent
+Samuel,2025-01-17,Absent
+Jamie,2025-12-06,Absent
+Frank,2025-08-01,Present
+Casey,2025-10-12,Absent
+Morgan,2025-12-05,On Leave
+Jamie,2025-10-05,Present
+Morgan,2025-03-15,On Leave
+Jordan,2025-03-14,Absent
+Alex,2025-09-24,On Leave
+Peyton,2025-09-07,Present
+Taylor,2025-02-15,Present
+Jamie,2025-02-11,On Leave
+Jamie,2025-10-22,On Leave
+Riley,2025-03-20,Late
+Avery,2025-01-19,Absent
+Morgan,2025-04-04,Absent
+Jordan,2025-11-18,Present
+Taylor,2025-08-01,On Leave
+Quinn,2025-08-21,On Leave
+Quinn,2025-05-21,Absent
+Taylor,2025-02-16,Absent
+Quinn,2025-07-10,Late
+Jordan,2025-03-09,Absent
+Riley,2025-03-08,On Leave
+Riley,2025-06-29,Present
+Riley,2025-03-22,On Leave
+Quinn,2025-09-12,Present
+Taylor,2025-09-13,On Leave
+Jordan,2025-01-02,Absent
+Taylor,2025-06-21,Late
+Riley,2025-02-10,Absent
+Riley,2025-09-28,Late
+Quinn,2025-12-26,Present
+Avery,2025-08-17,Present
+Peyton,2025-11-02,Late
+Taylor,2025-05-30,Late
+Quinn,2025-07-20,Present
+Peyton,2025-06-03,On Leave
+Peyton,2025-01-13,Late
+Mark,2025-04-24,Present
+Taylor,2025-12-01,Absent
+Avery,2025-02-03,Absent
+Riley,2025-10-16,Present
+Alex,2025-01-22,Late
+Peyton,2025-10-15,Late
+Casey,2025-06-23,Present
+Jamie,2025-03-18,On Leave
+Avery,2025-11-02,Absent
+Jordan,2025-07-18,Absent
+Casey,2025-04-07,On Leave
+Avery,2025-04-20,Present
+Morgan,2025-03-10,Absent
+Jordan,2025-08-22,Absent
+Alex,2025-02-07,On Leave
+Casey,2025-09-10,On Leave
+Morgan,2025-02-27,Absent
+Morgan,2025-11-06,Late
+Casey,2025-06-30,Late
+Jordan,2025-02-04,On Leave
+Jamie,2025-05-21,Late
+Morgan,2025-09-07,Late
+Alex,2025-03-18,Absent
+Peyton,2025-10-04,On Leave
+Taylor,2025-07-31,On Leave
+Riley,2025-02-28,Present
+Avery,2025-11-27,Late
+Peyton,2025-02-01,Absent
+Quinn,2025-08-16,On Leave
+Quinn,2025-10-27,Absent
+Riley,2025-08-16,Present
+Casey,2025-08-28,Present
+Jordan,2025-04-16,Present
+Jordan,2025-12-08,Present
+Riley,2025-05-16,Present
+Avery,2025-04-17,Late
+Taylor,2025-09-02,Late
+Avery,2025-05-28,On Leave
+Peyton,2025-02-25,On Leave
+Riley,2025-07-20,Absent
+Peyton,2025-01-09,Present
+Casey,2025-04-01,Absent
+Peyton,2025-09-24,Present
+Jamie,2025-06-08,Present
+Jamie,2025-05-31,Present
+Casey,2025-07-25,Present
+Casey,2025-08-18,Late
+Quinn,2025-10-28,On Leave
+Alex,2025-08-07,Absent
+Riley,2025-09-06,Absent
+Jordan,2025-08-20,Late
+Riley,2025-09-03,Late
+Morgan,2025-07-14,Present
+Quinn,2025-02-22,Late
+Jamie,2025-09-22,Late
+Avery,2025-03-26,On Leave
+Peyton,2025-03-29,Late
+Morgan,2025-06-26,On Leave
+Jamie,2025-04-01,Present
+Alex,2025-04-28,Absent
+Avery,2025-02-13,Absent
+Alex,2025-06-30,Absent
+Alex,2025-07-15,Late
+Jamie,2025-10-11,Present
+Morgan,2025-08-23,On Leave
+Quinn,2025-11-15,Absent
+Alex,2025-07-26,Late
+Morgan,2025-05-07,Present
+Taylor,2025-03-12,On Leave
+Casey,2025-11-10,Late
+Taylor,2025-02-14,On Leave
+Casey,2025-10-11,On Leave
+Morgan,2025-12-08,Present
+Riley,2025-10-07,Absent
+Jamie,2025-06-08,On Leave
+Avery,2025-03-06,Absent
+Jordan,2025-02-20,On Leave
+Jordan,2025-01-07,Absent
+Morgan,2025-05-07,On Leave
+Peyton,2025-04-22,Late
+Casey,2025-12-10,Present
+Peyton,2025-12-29,Present
+Alex,2025-02-27,On Leave
+Peyton,2025-06-12,Present
+Riley,2025-06-02,Present
+Morgan,2025-01-01,On Leave
+Alex,2025-07-06,Absent
+Riley,2025-11-20,On Leave
+Jordan,2025-02-08,Late
+Peyton,2025-02-17,Present
+Quinn,2025-11-29,Absent
+Avery,2025-10-29,Present
+Avery,2025-10-30,Late
+Avery,2025-09-23,Present
+Casey,2025-09-08,On Leave
+Jordan,2025-04-15,On Leave
+Taylor,2025-11-27,Present
+Riley,2025-06-05,Present
+Alex,2025-03-02,On Leave
+Alex,2025-07-24,Absent
+Linda,2025-01-24,Absent
+Quinn,2025-02-21,Late
+Jordan,2025-01-02,Present
+Casey,2025-08-19,Present
+Casey,2025-06-12,On Leave
+Quinn,2025-06-06,Absent
+Alex,2025-11-29,On Leave
+Quinn,2025-03-20,Late
+Jordan,2025-11-29,On Leave
+Jordan,2025-01-06,Late
+Peyton,2025-10-19,Absent
+Morgan,2025-02-20,Present
+Quinn,2025-10-05,Absent
+Peyton,2025-07-03,Absent
+Jordan,2025-11-19,Late
+Casey,2025-03-03,On Leave
+Casey,2025-12-30,On Leave
+Casey,2025-12-01,Absent
+Taylor,2025-07-09,Absent
+Alex,2025-02-10,Absent
+Jamie,2025-09-03,Absent
+Quinn,2025-08-26,Late
+Avery,2025-03-10,Present
+Quinn,2025-07-28,Present
+Avery,2025-06-20,Late
+Casey,2025-09-06,Late
+Taylor,2025-06-28,On Leave
+Alex,2025-10-12,Present
+Taylor,2025-10-08,Late
+Avery,2025-08-14,On Leave
+Avery,2025-03-05,Present
+Casey,2025-06-02,Absent
+Quinn,2025-05-11,Absent
+Morgan,2025-01-09,Present
+Jordan,2025-11-18,Late
+Taylor,2025-03-01,Present
+Jordan,2025-11-07,Present
+Jamie,2025-10-17,Present
+Peyton,2025-03-30,Late
+Avery,2025-09-06,Late
+Casey,2025-09-19,Present
+Casey,2025-07-14,Late
+Riley,2025-12-09,Present
+Jamie,2025-10-21,On Leave
+Peyton,2025-05-12,Late
+Morgan,2025-12-03,On Leave
+Taylor,2025-06-25,Present
+Emily,2025-07-29,Absent
+Peyton,2025-01-28,Late
+Quinn,2025-02-05,Late
+Avery,2025-04-27,Late
+Jamie,2025-08-05,Present
+Peyton,2025-10-17,Absent
+Quinn,2025-09-29,Late
+Casey,2025-07-03,On Leave
+Quinn,2025-12-14,Present
+Jamie,2025-05-03,Absent
+Jordan,2025-07-09,Absent
+Avery,2025-06-25,Present
+Casey,2025-04-14,Present
+Morgan,2025-11-30,On Leave
+Avery,2025-09-07,On Leave
+Taylor,2025-11-29,On Leave
+Jamie,2025-12-20,Late
+Peyton,2025-11-15,On Leave
+Alex,2025-10-25,Late
+Quinn,2025-05-10,Absent
+Riley,2025-03-07,Present
+Alex,2025-01-28,Present
+Jamie,2025-02-16,Late
+Peyton,2025-01-06,Absent
+Quinn,2025-09-17,On Leave
+Jordan,2025-09-27,On Leave
+Casey,2025-10-15,Late
+Jordan,2025-02-15,On Leave
+Jordan,2025-03-16,On Leave
+Casey,2025-04-06,Present
+Quinn,2025-11-14,Late
+Morgan,2025-03-25,Absent
+Jordan,2025-09-06,On Leave
+Morgan,2025-10-05,Absent
+Alex,2025-03-16,Late
+Alex,2025-01-26,Present
+Alex,2025-04-19,Late
+Riley,2025-04-30,Absent
+Morgan,2025-06-30,Absent
+Taylor,2025-07-25,Late
+Morgan,2025-10-08,On Leave
+Morgan,2025-11-01,On Leave
+Jordan,2025-08-12,Present
+Jordan,2025-12-05,Present
+Quinn,2025-11-12,Absent
+Alex,2025-09-25,Present
+Casey,2025-09-23,Present
+Taylor,2025-07-03,Absent
+Casey,2025-11-01,Late
+Riley,2025-02-28,Late
+Taylor,2025-08-11,Present
+Cynthia,2025-02-21,Late
+Taylor,2025-08-13,Present
+Taylor,2025-01-10,Absent
+Peyton,2025-07-16,On Leave
+Avery,2025-01-17,Present
+Morgan,2025-05-04,On Leave
+Jordan,2025-10-02,Absent
+Quinn,2025-12-20,Absent
+Peyton,2025-02-15,On Leave
+Avery,2025-12-10,Absent
+Casey,2025-12-21,Absent
+Casey,2025-09-13,Present
+Morgan,2025-06-12,Late
+Avery,2025-09-26,Late
+Riley,2025-01-04,Absent
+Peyton,2025-09-07,Present
+Peyton,2025-08-17,Late
+Taylor,2025-09-15,On Leave
+Jamie,2025-06-17,On Leave
+Morgan,2025-11-27,Absent
+Avery,2025-04-24,Absent
+Casey,2025-10-08,Late
+Morgan,2025-01-29,On Leave
+Casey,2025-08-20,On Leave
+Jordan,2025-12-11,Late
+Quinn,2025-08-11,On Leave
+Peyton,2025-05-11,Late
+Alex,2025-01-21,Present
+Peyton,2025-11-30,Late
+Morgan,2025-08-01,Late
+Morgan,2025-09-17,On Leave
+Taylor,2025-07-01,Late
+Jordan,2025-12-24,Present
+Casey,2025-11-16,Absent
+Riley,2025-02-26,Present
+Quinn,2025-11-10,On Leave
+Jamie,2025-11-26,On Leave
+Quinn,2025-05-31,On Leave
+Jamie,2025-08-07,Absent
+Morgan,2025-02-08,On Leave
+Morgan,2025-01-04,Present
+Quinn,2025-11-13,Present
+Casey,2025-10-23,Late
+Avery,2025-07-08,On Leave
+Alex,2025-09-09,Present
+Taylor,2025-04-14,On Leave
+Casey,2025-08-22,Present
+Jamie,2025-12-09,On Leave
+Alex,2025-01-11,Absent
+Jordan,2025-09-04,Present
+Jordan,2025-02-14,Present
+Casey,2025-10-12,Late
+Peyton,2025-11-21,Absent
+Taylor,2025-07-30,Absent
+Taylor,2025-06-04,On Leave
+Jamie,2025-05-11,Present
+Avery,2025-03-21,Present
+Alex,2025-08-24,Present
+Taylor,2025-03-10,Present
+Morgan,2025-03-01,Present
+Morgan,2025-04-12,Present
+Taylor,2025-01-15,Late
+Morgan,2025-02-20,Present
+Peyton,2025-09-20,On Leave
+Avery,2025-09-18,On Leave
+Jamie,2025-12-06,Late
+Casey,2025-07-26,On Leave
+Jordan,2025-08-15,On Leave
+Morgan,2025-06-15,Present
+Jordan,2025-10-06,On Leave
+Alex,2025-01-14,Present
+Avery,2025-03-22,Absent
+Alex,2025-03-24,Late
+Morgan,2025-06-24,On Leave
+Jordan,2025-11-13,On Leave
+Jordan,2025-02-06,Present
+Jamie,2025-09-02,Absent
+Riley,2025-11-26,Absent
+Jordan,2025-08-24,Present
+Alex,2025-06-26,Absent
+Casey,2025-03-11,Absent
+Riley,2025-04-09,Absent
+Riley,2025-06-11,Present
+Alex,2025-02-21,Absent
+Avery,2025-03-06,Present
+Jordan,2025-10-16,Present
+Peyton,2025-10-20,Late
+Morgan,2025-11-22,Absent
+Jordan,2025-06-12,Absent
+Peyton,2025-02-19,On Leave
+Peyton,2025-11-18,Absent
+Alex,2025-02-07,Present
+Peyton,2025-10-03,Absent
+Morgan,2025-10-03,Absent
+Morgan,2025-02-19,Late
+Taylor,2025-07-07,Absent
+Riley,2025-02-25,Late
+Avery,2025-01-28,Present
+Riley,2025-07-18,On Leave
+Casey,2025-03-12,Present
+Morgan,2025-11-06,Late
+Jordan,2025-07-27,On Leave
+Jamie,2025-05-16,Present
+Jamie,2025-12-28,Present
+Quinn,2025-11-23,Present
+Avery,2025-07-04,Absent
+Riley,2025-02-03,Late
+Quinn,2025-11-11,Absent
+Jordan,2025-07-17,On Leave
+Riley,2025-05-01,On Leave
+Casey,2025-03-30,Present
+Jamie,2025-06-12,On Leave
+Jamie,2025-08-31,On Leave
+Quinn,2025-08-02,Late
+Jordan,2025-11-22,Absent
+Taylor,2025-06-05,On Leave
+Peyton,2025-07-25,Absent
+Jamie,2025-01-03,Absent
+Alex,2025-01-28,Late
+Peyton,2025-12-28,Absent
+Peyton,2025-08-29,Present
+Riley,2025-07-08,On Leave
+Taylor,2025-04-23,Late
+Casey,2025-09-18,On Leave
+Riley,2025-11-11,On Leave
+Jamie,2025-02-24,Late
+Morgan,2025-05-07,Present
+Jordan,2025-06-18,Present
+Morgan,2025-08-25,On Leave
+Avery,2025-03-18,On Leave
+Casey,2025-02-20,Late
+Quinn,2025-05-09,Absent
+Riley,2025-09-15,Late
+Taylor,2025-04-12,Absent
+Morgan,2025-07-12,On Leave
+Riley,2025-12-24,Late
+Morgan,2025-02-23,Absent
+Alex,2025-09-21,Late
+Peyton,2025-06-01,Late
+Casey,2025-08-17,Late
+Peyton,2025-02-21,Absent
+Peyton,2025-10-31,Present
+Michael,2025-10-27,Present
+Quinn,2025-02-26,On Leave
+Casey,2025-09-12,On Leave
+Morgan,2025-11-19,Present
+Casey,2025-01-20,Present
+Casey,2025-08-07,Late
+Taylor,2025-05-30,On Leave
+Jamie,2025-05-09,Absent
+Taylor,2025-05-05,Absent
+Jordan,2025-11-25,Late
+William,2025-07-27,Present
+Peyton,2025-06-16,Absent
+Taylor,2025-07-08,Late
+Jordan,2025-07-26,Present
+Morgan,2025-12-11,On Leave
+Taylor,2025-09-13,Absent
+Morgan,2025-10-20,On Leave
+Jordan,2025-04-18,Absent
+Peyton,2025-02-14,Late
+Avery,2025-09-27,Present
+Taylor,2025-05-11,On Leave
+Jordan,2025-09-11,On Leave
+Alex,2025-02-08,Absent
+Taylor,2025-06-15,Present
+Morgan,2025-05-06,Late
+Riley,2025-03-03,On Leave
+Quinn,2025-05-10,Late
+Riley,2025-05-06,On Leave
+Casey,2025-04-13,Late
+Jamie,2025-12-06,Present
+Jamie,2025-05-13,Present
+Taylor,2025-12-23,Present
+Quinn,2025-07-31,Absent
+Avery,2025-08-02,Late
+Nancy,2025-03-15,Present
+Jamie,2025-03-03,Late
+Alex,2025-02-23,Late
+Quinn,2025-01-23,Present
+Jordan,2025-07-20,Absent
+Riley,2025-05-29,Present
+Alex,2025-02-24,Absent
+Morgan,2025-01-01,Late
+Jordan,2025-08-23,Absent
+Avery,2025-05-05,Late
+Morgan,2025-03-03,Late
+Alex,2025-02-02,On Leave
+Jamie,2025-02-18,Late
+Jamie,2025-07-27,Absent
+Riley,2025-04-27,Present
+Quinn,2025-11-30,On Leave
+Peyton,2025-01-19,Present
+Riley,2025-02-11,On Leave
+Raymond,2025-04-09,Absent
+Laura,2025-11-17,On Leave
+Quinn,2025-04-26,Present
+Taylor,2025-06-03,Absent
+Alex,2025-05-28,On Leave
+Jamie,2025-05-14,Late
+Casey,2025-12-25,Absent
+Riley,2025-01-15,Present
+Taylor,2025-10-26,Late
+Sharon,2025-01-29,On Leave
+Riley,2025-05-05,Present
+Avery,2025-01-28,Present
+Riley,2025-01-16,Present
+Jamie,2025-01-26,On Leave
+Riley,2025-06-27,Late
+Casey,2025-02-23,Present
+Jordan,2025-12-17,Absent
+Jamie,2025-04-28,On Leave
+Riley,2025-11-24,On Leave
+Jordan,2025-09-18,On Leave
+Peyton,2025-09-30,Late
+Quinn,2025-08-13,Late
+Quinn,2025-06-26,Present
+Jamie,2025-04-19,Present
+Jordan,2025-03-22,Present
+Riley,2025-05-02,On Leave
+Riley,2025-02-12,Late
+Quinn,2025-08-01,Late
+Riley,2025-06-29,Late
+Jordan,2025-01-05,On Leave
+Jordan,2025-03-10,Late
+Jamie,2025-04-15,Present
+Alex,2025-07-05,On Leave
+Mary,2025-12-08,Present
+Riley,2025-06-22,Late
+Morgan,2025-05-01,Present
+Casey,2025-06-23,On Leave
+Avery,2025-07-08,Late
+Riley,2025-07-06,On Leave
+Avery,2025-02-03,Late
+Casey,2025-07-15,Absent
+Morgan,2025-12-16,Late
+Avery,2025-03-23,Present
+Morgan,2025-05-23,Present
+Peyton,2025-09-12,On Leave
+Jamie,2025-10-10,Absent
+Peyton,2025-07-19,Absent
+Avery,2025-04-16,Absent
+Taylor,2025-04-10,Late
+Taylor,2025-02-01,On Leave
+Casey,2025-01-30,Absent
+Jamie,2025-07-03,Present
+Jamie,2025-02-05,On Leave
+Peyton,2025-05-17,On Leave
+Quinn,2025-10-02,Present
+Taylor,2025-09-04,Late
+Taylor,2025-08-18,Present
+Jamie,2025-02-25,Absent
+Peyton,2025-09-06,Late
+Quinn,2025-09-25,Absent
+Riley,2025-10-29,On Leave
+Jordan,2025-06-29,Late
+Casey,2025-01-27,Present
+Jordan,2025-10-25,Late
+Morgan,2025-02-19,On Leave
+Jordan,2025-10-08,Late
+Casey,2025-07-26,On Leave
+Taylor,2025-08-01,Present
+Casey,2025-07-20,Present
+Peyton,2025-03-05,Absent
+Peyton,2025-03-21,Late
+Morgan,2025-07-13,Present
+Quinn,2025-09-26,On Leave
+Riley,2025-11-16,Absent
+Taylor,2025-11-01,Present
+Quinn,2025-05-13,Present
+Peyton,2025-04-16,Present
+Riley,2025-07-10,Late
+Avery,2025-02-11,On Leave
+Casey,2025-03-31,Late
+Jordan,2025-05-28,Absent
+Alex,2025-04-20,Present
+Casey,2025-10-05,Late
+Taylor,2025-09-27,Absent
+Casey,2025-01-04,On Leave
+Jamie,2025-02-06,Late
+Casey,2025-01-28,On Leave
+Casey,2025-08-21,On Leave
+Casey,2025-01-17,On Leave
+Quinn,2025-03-29,Present
+Peyton,2025-02-20,Absent
+Casey,2025-04-21,Absent
+Casey,2025-04-14,Absent
+Avery,2025-08-15,Late
+Riley,2025-04-03,Absent
+Jamie,2025-07-04,Present
+Alex,2025-09-26,On Leave
+Jamie,2025-10-22,Present
+Jordan,2025-12-10,On Leave
+Morgan,2025-06-05,On Leave
+Peyton,2025-05-23,Present
+Jordan,2025-07-29,Late
+Avery,2025-07-09,Late
+Alex,2025-06-06,Late
+Alex,2025-02-04,Absent
+Jordan,2025-07-17,On Leave
+Riley,2025-08-21,Late
+Jamie,2025-07-01,Late
+Alex,2025-02-27,Late
+Alex,2025-04-13,On Leave
+Avery,2025-01-10,On Leave
+Peyton,2025-07-14,Absent
+Jordan,2025-05-12,Present
+Jamie,2025-08-20,Late
+Jamie,2025-04-10,Present
+Taylor,2025-09-12,Present
+Peyton,2025-11-05,Absent
+Jamie,2025-06-17,On Leave
+Avery,2025-05-11,Late
+Avery,2025-04-17,Absent
+Taylor,2025-11-22,Absent
+Quinn,2025-03-05,On Leave
+Jamie,2025-12-31,Absent
+Riley,2025-06-03,Late
+Taylor,2025-10-19,Late
+Jordan,2025-05-24,On Leave
+Peyton,2025-06-30,Absent
+Avery,2025-12-22,Late
+Jordan,2025-08-13,Late
+Jamie,2025-02-26,Late
+Peyton,2025-11-15,Present
+Quinn,2025-05-02,Late
+Taylor,2025-01-17,Absent
+Alex,2025-09-06,On Leave
+Peyton,2025-04-18,On Leave
+Jamie,2025-06-15,On Leave
+Kimberly,2025-06-18,Present
+Riley,2025-03-13,Present
+Jamie,2025-01-29,Present
+Alex,2025-09-17,Present
+Stephen,2025-09-01,On Leave
+Quinn,2025-11-23,On Leave
+Avery,2025-11-29,On Leave
+Quinn,2025-08-06,Absent
+Peyton,2025-06-29,Present
+Quinn,2025-03-25,Present
+Riley,2025-07-21,Absent
+Peyton,2025-11-14,On Leave
+Riley,2025-02-22,Absent
+Avery,2025-10-07,Late
+Jamie,2025-11-10,Absent
+Quinn,2025-12-20,On Leave
+Avery,2025-02-08,Present
+Riley,2025-05-14,On Leave
+Casey,2025-09-10,Late
+Taylor,2025-02-05,Absent
+Taylor,2025-07-28,Absent
+Casey,2025-06-11,Absent
+Avery,2025-02-19,On Leave
+Peyton,2025-01-01,On Leave
+Peyton,2025-11-10,On Leave
+Riley,2025-07-18,On Leave
+Quinn,2025-02-19,Late
+Quinn,2025-08-18,Absent
+Morgan,2025-10-20,Present
+Jamie,2025-07-26,Present
+Quinn,2025-10-04,Absent
+Peyton,2025-10-21,Present
+Morgan,2025-10-16,On Leave
+Quinn,2025-08-31,Present
+Taylor,2025-09-10,Absent
+Taylor,2025-06-26,Absent
+Riley,2025-02-28,On Leave
+Peyton,2025-05-08,On Leave
+Riley,2025-08-04,Late
+Casey,2025-09-10,Late
+Alex,2025-09-28,Present
+Peyton,2025-01-27,Present
+Jamie,2025-02-16,Late
+Peyton,2025-09-01,Present
+Alex,2025-08-21,Absent
+Quinn,2025-11-22,On Leave
+Riley,2025-04-09,Late
+Alex,2025-01-20,On Leave
+Peyton,2025-07-02,Absent
+Casey,2025-07-14,On Leave
+Quinn,2025-10-30,Absent
+Riley,2025-03-06,Absent
+Jamie,2025-12-12,Absent
+Jamie,2025-11-14,Late
+Peyton,2025-07-30,On Leave
+Peyton,2025-09-13,Late
+Quinn,2025-01-08,Present
+Morgan,2025-11-26,Absent
+Avery,2025-08-14,Late
+Jamie,2025-08-21,Absent
+Peyton,2025-12-04,Absent
+Peyton,2025-12-24,Absent
+Riley,2025-12-25,On Leave
+Casey,2025-10-01,Late
+Quinn,2025-03-05,Absent
+Taylor,2025-10-23,Absent
+Morgan,2025-11-22,Present
+Riley,2025-07-03,Late
+Peyton,2025-12-14,Absent
+Morgan,2025-05-08,Late
+Casey,2025-12-06,Absent
+Quinn,2025-12-31,Absent
+Avery,2025-06-18,Late
+Peyton,2025-06-05,Late
+Avery,2025-10-01,Present
+Jordan,2025-03-16,Present
+Morgan,2025-03-04,Present
+Jamie,2025-12-19,Late
+Jamie,2025-05-05,Late
+Peyton,2025-04-09,Absent
+Jamie,2025-10-24,Absent
+Riley,2025-06-08,Absent
+Avery,2025-05-30,Present
+Alex,2025-02-08,Present
+Riley,2025-07-17,On Leave
+Riley,2025-10-25,On Leave
+Peyton,2025-09-16,On Leave
+Quinn,2025-01-13,Present
+Peyton,2025-01-12,Absent
+Taylor,2025-10-01,Present
+Morgan,2025-05-09,Absent
+Casey,2025-03-08,Present
+Riley,2025-12-05,Present
+Jamie,2025-11-10,Present
+Casey,2025-12-28,On Leave
+Peyton,2025-09-02,Absent
+Quinn,2025-01-06,Late
+Alex,2025-03-12,Present
+Riley,2025-05-13,Present
+Morgan,2025-06-04,Present
+Jamie,2025-12-21,Late
+Alex,2025-04-07,Present
+Peyton,2025-04-21,On Leave
+Jordan,2025-03-26,On Leave
+Peyton,2025-11-12,Absent
+Jamie,2025-10-06,On Leave
+Casey,2025-10-08,Absent
+Avery,2025-11-16,Absent
+Casey,2025-04-14,Absent
+Avery,2025-03-25,Present
+Jamie,2025-08-13,Present
+Riley,2025-03-25,Late
+Avery,2025-08-02,On Leave
+Avery,2025-06-30,Late
+Quinn,2025-11-23,Present
+Alex,2025-06-26,Present
+Alex,2025-11-29,Present
+Jamie,2025-09-20,Late
+Riley,2025-10-23,Late
+Quinn,2025-10-19,Absent
+Jamie,2025-06-12,Absent
+Riley,2025-08-01,Present
+Peyton,2025-08-18,Late
+Morgan,2025-07-20,Late
+Morgan,2025-05-21,Late
+Morgan,2025-09-16,On Leave
+Alex,2025-11-06,Absent
+Riley,2025-08-09,Late
+Jamie,2025-02-13,Absent
+Quinn,2025-03-19,Late
+Casey,2025-12-26,Late
+Taylor,2025-03-31,Absent
+Jamie,2025-03-16,Present
+Riley,2025-09-04,Late
+Avery,2025-10-04,Absent
+Quinn,2025-04-29,Absent
+Quinn,2025-01-19,On Leave
+Avery,2025-07-13,Absent
+Quinn,2025-03-03,On Leave
+Quinn,2025-10-08,Absent
+Taylor,2025-12-31,Absent
+Casey,2025-07-25,Present
+Morgan,2025-02-13,Absent
+Casey,2025-01-15,Present
+Riley,2025-05-16,Absent
+Ryan,2025-04-01,Absent
+Alex,2025-12-02,Absent
+Morgan,2025-02-18,On Leave
+Riley,2025-10-14,Present
+Quinn,2025-03-25,Late
+Jamie,2025-01-24,Present
+Riley,2025-01-05,Late
+Quinn,2025-07-18,On Leave
+Quinn,2025-09-02,Late
+Jamie,2025-05-12,Present
+Jamie,2025-02-03,Absent
+Jamie,2025-10-26,Absent
+Jamie,2025-06-21,On Leave
+Alex,2025-09-01,Absent
+Avery,2025-08-08,Present
+Alex,2025-01-22,Absent
+Jamie,2025-11-15,On Leave
+Avery,2025-02-25,Present
+Peyton,2025-08-25,On Leave
+Avery,2025-10-01,Late
+Casey,2025-10-27,Absent
+Taylor,2025-11-13,On Leave
+Casey,2025-09-28,Present
+Alex,2025-08-27,Present
+Casey,2025-10-05,On Leave
+Jordan,2025-07-24,Absent
+Taylor,2025-09-21,On Leave
+Avery,2025-12-21,Late
+Alex,2025-11-08,Late
+Alex,2025-04-22,Present
+Casey,2025-09-28,Late
+Quinn,2025-02-11,Present
+Jordan,2025-07-17,On Leave
+Jordan,2025-12-03,Late
+Taylor,2025-02-20,On Leave
+Avery,2025-07-10,Late
+Jamie,2025-07-26,Absent
+Morgan,2025-08-17,On Leave
+Taylor,2025-06-05,Absent
+Jamie,2025-11-28,On Leave
+Riley,2025-11-28,Absent
+Taylor,2025-05-26,Late
+Jamie,2025-11-25,On Leave
+Casey,2025-09-28,Present
+Morgan,2025-02-20,On Leave
+Riley,2025-06-02,Present
+Riley,2025-12-01,Late
+Casey,2025-05-09,Present
+Avery,2025-06-30,On Leave
+Peyton,2025-11-14,Late
+Casey,2025-11-30,Present
+Morgan,2025-04-19,Absent
+Quinn,2025-08-24,Present
+Taylor,2025-07-10,Late
+Casey,2025-06-05,On Leave
+Casey,2025-09-16,Present
+Avery,2025-03-17,On Leave
+Taylor,2025-10-09,Late
+Morgan,2025-01-18,Late
+Jamie,2025-02-10,Late
+Peyton,2025-09-19,Present
+Taylor,2025-10-24,On Leave
+Jordan,2025-04-10,On Leave
+Casey,2025-04-01,On Leave
+Quinn,2025-12-13,On Leave
+Quinn,2025-05-12,Absent
+Taylor,2025-08-17,Present
+Avery,2025-07-16,Late
+Jamie,2025-11-14,Absent
+Taylor,2025-02-01,Late
+Alex,2025-07-08,On Leave
+Quinn,2025-01-01,Present
+Casey,2025-08-28,Late
+Alex,2025-07-19,On Leave
+Jordan,2025-02-03,Present
+Avery,2025-12-13,On Leave
+Casey,2025-08-27,On Leave
+Peyton,2025-03-12,Absent
+Jordan,2025-11-04,Absent
+Casey,2025-02-18,Absent
+Peyton,2025-03-31,Present
+Jordan,2025-09-19,Present
+Peyton,2025-03-15,On Leave
+Taylor,2025-02-04,Present
+Alex,2025-02-27,Absent
+Jamie,2025-11-13,Late
+Quinn,2025-12-25,Present
+Peyton,2025-07-20,Absent
+Peyton,2025-10-10,Absent
+Riley,2025-08-06,On Leave
+Taylor,2025-07-12,Late
+Jamie,2025-10-03,Present
+Taylor,2025-04-05,Late
+Avery,2025-07-18,On Leave
+Alex,2025-09-09,Late
+Avery,2025-02-15,Present
+Taylor,2025-03-24,Absent
+Jordan,2025-03-08,Absent
+Jamie,2025-06-18,Late
+Morgan,2025-01-24,Late
+Casey,2025-04-16,On Leave
+Peyton,2025-03-20,Present
+Jordan,2025-04-18,Late
+Quinn,2025-02-01,Present
+Peyton,2025-01-26,Present
+Quinn,2025-06-12,Late
+Alex,2025-08-07,On Leave
+Casey,2025-02-12,Present
+Peyton,2025-08-08,Absent
+Peyton,2025-11-28,Present
+Casey,2025-04-20,Absent
+Alex,2025-10-09,Late
+Alex,2025-06-06,Late
+Morgan,2025-06-16,On Leave
+Jamie,2025-01-18,Present
+Quinn,2025-05-23,Present
+Alex,2025-05-19,On Leave
+Jordan,2025-09-16,Present
+Jamie,2025-02-26,On Leave
+Taylor,2025-05-19,Absent
+Taylor,2025-10-31,Absent
+Taylor,2025-11-01,Late
+Avery,2025-07-24,Present
+Jordan,2025-09-25,On Leave
+Quinn,2025-06-27,Present
+Quinn,2025-08-20,Present
+Avery,2025-12-19,On Leave
+Morgan,2025-07-29,Absent
+Alex,2025-07-22,Late
+Jordan,2025-06-16,On Leave
+Janet,2025-02-03,Absent
+Avery,2025-02-11,Present
+Casey,2025-02-26,On Leave
+Quinn,2025-06-12,Absent
+Morgan,2025-09-07,On Leave
+Jordan,2025-01-02,Present
+Morgan,2025-11-09,On Leave
+Jamie,2025-06-23,Present
+Avery,2025-08-31,Present
+Jordan,2025-07-24,Late
+Jamie,2025-05-08,Absent
+Taylor,2025-06-06,Present
+Casey,2025-09-14,Present
+Avery,2025-10-15,Absent
+Riley,2025-09-29,On Leave
+Alex,2025-06-08,Absent
+Morgan,2025-11-06,Absent
+Alex,2025-05-13,Late
+Jamie,2025-02-03,On Leave
+Taylor,2025-11-01,Late
+Avery,2025-11-27,Present
+Emma,2025-12-18,Absent
+Jamie,2025-03-19,Absent
+Avery,2025-08-06,Late
+Alex,2025-03-05,On Leave
+Morgan,2025-09-11,On Leave
+Riley,2025-02-05,Present
+Jordan,2025-10-19,Present
+Quinn,2025-12-26,On Leave
+Morgan,2025-11-28,Late
+Casey,2025-09-15,Present
+Avery,2025-02-08,Present
+Jordan,2025-11-16,Absent
+Quinn,2025-02-05,Late
+Taylor,2025-11-08,Present
+Jordan,2025-08-05,Late
+Quinn,2025-09-13,On Leave
+Morgan,2025-11-29,Absent
+Jamie,2025-04-16,Absent
+Avery,2025-03-18,Present
+Jordan,2025-11-17,On Leave
+Jordan,2025-09-08,Late
+Riley,2025-02-07,Absent
+Peyton,2025-01-17,Present
+Eric,2025-12-27,Absent
+Jamie,2025-03-10,On Leave
+Jordan,2025-06-04,On Leave
+Riley,2025-10-11,Absent
+Avery,2025-07-18,Present
+Riley,2025-04-10,Late
+Quinn,2025-02-18,Absent
+Avery,2025-07-10,Present
+Quinn,2025-12-08,On Leave
+Taylor,2025-06-19,On Leave
+Peyton,2025-10-31,On Leave
+Riley,2025-11-04,Late
+Taylor,2025-04-30,Present
+Alex,2025-02-16,On Leave
+Avery,2025-06-17,Present
+Avery,2025-10-27,Present
+Peyton,2025-07-22,Present
+Peyton,2025-05-05,On Leave
+Morgan,2025-06-20,Absent
+Quinn,2025-06-07,Absent
+Riley,2025-04-17,On Leave
+Casey,2025-02-01,Late
+Quinn,2025-11-28,Absent
+Alex,2025-02-17,Absent
+Jamie,2025-03-13,On Leave
+Jordan,2025-09-26,Late
+Casey,2025-02-13,Late
+Jordan,2025-11-11,Absent
+Alex,2025-05-18,On Leave
+Avery,2025-08-15,On Leave
+Taylor,2025-03-17,Late
+Riley,2025-08-02,Late
+Alex,2025-08-03,Late
+Taylor,2025-08-06,Present
+Jamie,2025-09-27,Absent
+Avery,2025-10-17,Late
+Quinn,2025-08-12,Present
+Jamie,2025-11-02,Present
+Alex,2025-08-10,Absent
+Riley,2025-10-23,Present
+Morgan,2025-03-09,On Leave
+Casey,2025-11-09,Late
+Jamie,2025-04-30,Late
+Morgan,2025-12-02,On Leave
+Peyton,2025-07-06,On Leave
+Casey,2025-05-21,Present
+Jamie,2025-08-27,Present
+Morgan,2025-05-26,Absent
+Morgan,2025-07-06,Late
+Casey,2025-03-08,Present
+Alex,2025-08-24,Absent
+Morgan,2025-09-27,Absent
+Riley,2025-09-16,Present
+Jordan,2025-09-15,On Leave
+Avery,2025-07-02,Absent
+Alex,2025-12-16,On Leave
+Alex,2025-09-06,Present
+Taylor,2025-05-29,Late
+Morgan,2025-02-22,On Leave
+Casey,2025-10-12,Present
+Quinn,2025-03-07,On Leave
+Alex,2025-07-30,On Leave
+Riley,2025-01-30,Present
+Morgan,2025-02-04,Absent
+Jamie,2025-07-22,Absent
+Jordan,2025-03-21,On Leave
+Riley,2025-02-06,Late
+Avery,2025-06-06,Late
+Taylor,2025-07-29,Present
+Riley,2025-06-18,Late
+Morgan,2025-07-03,Late
+Peyton,2025-08-19,Absent
+Peyton,2025-09-05,Late
+Riley,2025-07-10,Late
+Taylor,2025-12-07,Absent
+Morgan,2025-11-02,Absent
+Quinn,2025-03-06,Absent
+Jordan,2025-09-15,Absent
+Alex,2025-02-14,Late
+Avery,2025-05-03,Absent
+Quinn,2025-02-24,Absent
+Alex,2025-08-13,On Leave
+Alex,2025-09-22,Late
+Quinn,2025-03-06,Absent
+Avery,2025-03-03,Present
+Peyton,2025-05-17,Present
+Jamie,2025-04-02,Present
+Morgan,2025-10-24,On Leave
+Jordan,2025-10-02,On Leave
+Jordan,2025-11-18,Late
+Jordan,2025-05-27,Late
+Casey,2025-09-04,Late
+Peyton,2025-01-07,Absent
+Alex,2025-06-12,Absent
+Casey,2025-06-04,On Leave
+Jordan,2025-11-30,Present
+Riley,2025-03-06,Absent
+Peyton,2025-02-28,Late
+Jordan,2025-01-05,Late
+Peyton,2025-12-12,Present
+Quinn,2025-03-25,On Leave
+Avery,2025-10-02,On Leave
+Avery,2025-04-29,Absent
+Peyton,2025-07-30,Absent
+Morgan,2025-03-03,Absent
+Taylor,2025-05-03,Absent
+Jordan,2025-10-31,On Leave
+Avery,2025-08-28,Absent
+Quinn,2025-02-15,On Leave
+Casey,2025-09-08,On Leave
+Jordan,2025-07-12,Absent
+Avery,2025-07-07,Absent
+Taylor,2025-10-29,On Leave
+Jordan,2025-08-11,Late
+Casey,2025-02-19,Present
+Avery,2025-03-14,On Leave
+Avery,2025-03-18,Late
+Jordan,2025-03-01,On Leave
+Casey,2025-10-13,On Leave
+Jamie,2025-09-04,Absent
+Casey,2025-05-23,On Leave
+Avery,2025-05-29,Present
+Alex,2025-08-23,Late
+Peyton,2025-07-14,On Leave
+Peyton,2025-03-28,Late
+Avery,2025-08-23,On Leave
+Riley,2025-04-04,Present
+Morgan,2025-10-23,Absent
+Riley,2025-03-06,Present
+Alex,2025-01-26,Absent
+Quinn,2025-10-30,Late
+Riley,2025-07-13,Late
+Jordan,2025-05-20,On Leave
+Taylor,2025-11-17,Absent
+Jordan,2025-02-07,Absent
+Alex,2025-03-14,Absent
+Avery,2025-09-14,Late
+Casey,2025-02-25,On Leave
+Morgan,2025-02-15,Late
+Quinn,2025-09-08,On Leave
+Alex,2025-03-10,Present
+Alex,2025-10-21,On Leave
+Taylor,2025-03-29,On Leave
+Peyton,2025-04-25,Present
+Riley,2025-11-04,Absent
+Alex,2025-07-01,Absent
+Taylor,2025-02-19,Late
+Riley,2025-03-02,Late
+Jordan,2025-08-24,Present
+Alex,2025-08-10,Late
+Casey,2025-04-01,Late
+Avery,2025-11-30,Present
+Quinn,2025-08-17,Absent
+Casey,2025-12-25,Late
+Taylor,2025-11-24,Absent
+Taylor,2025-12-02,Present
+Jordan,2025-09-26,On Leave
+Morgan,2025-04-18,Late
+Jordan,2025-12-14,Present
+Jordan,2025-11-13,Present
+Taylor,2025-08-20,Absent
+Jamie,2025-01-11,Late
+Quinn,2025-01-18,Present
+Jordan,2025-09-24,Late
+Quinn,2025-12-30,Late
+Jamie,2025-05-01,Present
+Riley,2025-11-29,On Leave
+Casey,2025-04-19,On Leave
+Alex,2025-06-24,Present
+Taylor,2025-10-11,Late
+Peyton,2025-01-04,Present
+Morgan,2025-07-29,Absent
+Jamie,2025-08-23,Late
+Morgan,2025-04-14,Present
+Peyton,2025-12-06,Present
+Riley,2025-09-22,Present
+Morgan,2025-09-11,Late
+Morgan,2025-09-25,Late
+Riley,2025-01-26,Late
+Avery,2025-08-04,On Leave
+Alex,2025-04-14,Late
+Casey,2025-10-12,Absent
+Dorothy,2025-02-07,Absent
+Matthew,2025-01-25,Late
+Riley,2025-07-22,Absent
+Taylor,2025-03-29,On Leave
+Taylor,2025-11-16,On Leave
+Alex,2025-10-22,Late
+Jamie,2025-03-22,Absent
+Jordan,2025-04-27,On Leave
+Alex,2025-06-11,Late
+Jamie,2025-05-21,On Leave
+Casey,2025-02-14,Late
+Taylor,2025-07-03,On Leave
+Peyton,2025-05-09,Absent
+Jamie,2025-11-26,Present
+Jamie,2025-12-11,Absent
+Casey,2025-01-05,Present
+Peyton,2025-06-23,Late
+Alex,2025-07-25,On Leave
+Peyton,2025-11-28,On Leave
+Taylor,2025-07-20,On Leave
+Casey,2025-10-30,Present
+Morgan,2025-04-21,Present
+Morgan,2025-05-27,Present
+Avery,2025-09-13,Absent
+Taylor,2025-02-21,Late
+Quinn,2025-07-31,Late
+Riley,2025-05-06,Present
+Quinn,2025-02-05,Present
+Avery,2025-06-10,Absent
+Morgan,2025-11-02,On Leave
+Morgan,2025-12-21,On Leave
+Jamie,2025-03-05,Present
+Casey,2025-04-03,Absent
+Alex,2025-12-13,Present
+Jordan,2025-03-31,Present
+Taylor,2025-02-07,On Leave
+Jamie,2025-05-03,Absent
+Jordan,2025-05-17,Present
+Taylor,2025-08-20,Present
+Quinn,2025-11-04,Late
+Casey,2025-05-28,Present
+Taylor,2025-05-01,On Leave
+Quinn,2025-06-20,Late
+Peyton,2025-02-18,Late
+Alex,2025-07-27,On Leave
+Jamie,2025-07-27,Late
+Taylor,2025-07-09,Late
+Quinn,2025-10-03,Late
+Morgan,2025-07-25,Absent
+Alex,2025-02-20,Late
+Peyton,2025-04-03,On Leave
+Avery,2025-04-22,Present
+Quinn,2025-02-23,Late
+Alex,2025-09-09,Present
+Casey,2025-10-09,Absent
+Casey,2025-10-14,Present
+Jordan,2025-06-22,On Leave
+Taylor,2025-06-29,Absent
+Avery,2025-11-28,On Leave
+Avery,2025-11-19,Absent
+Avery,2025-05-13,Late
+Jordan,2025-11-17,Present
+Peyton,2025-01-26,Present
+Casey,2025-11-30,Present
+Avery,2025-11-07,Late
+Morgan,2025-06-06,Present
+Riley,2025-04-26,Absent
+Taylor,2025-01-19,On Leave
+Jamie,2025-09-18,Late
+Alex,2025-12-12,Late
+Peyton,2025-01-02,Present
+Avery,2025-05-11,On Leave
+Casey,2025-09-09,On Leave
+Jordan,2025-07-11,Absent
+Taylor,2025-01-01,Absent
+Quinn,2025-02-26,On Leave
+Riley,2025-06-07,On Leave
+Debra,2025-04-04,Present
+Quinn,2025-10-08,Present
+Jordan,2025-09-11,Present
+Alex,2025-08-15,On Leave
+Casey,2025-10-28,Absent
+Taylor,2025-11-28,Late
+Casey,2025-05-15,Present
+Peyton,2025-10-11,Present
+Jordan,2025-12-02,Absent
+Taylor,2025-06-05,On Leave
+Riley,2025-08-02,Present
+Riley,2025-01-21,Present
+Taylor,2025-06-17,Late
+Morgan,2025-12-13,On Leave
+Morgan,2025-02-28,Present
+Casey,2025-06-29,Late
+Peyton,2025-04-04,On Leave
+Taylor,2025-02-24,Absent
+Margaret,2025-02-27,Present
+Morgan,2025-11-26,Late
+Jamie,2025-10-18,Late
+Avery,2025-04-04,Present
+Alex,2025-11-24,Late
+Jamie,2025-03-17,On Leave
+Quinn,2025-11-18,Late
+Quinn,2025-03-04,Absent
+Morgan,2025-08-19,Late
+Casey,2025-05-18,Present
+Jamie,2025-05-19,Absent
+Morgan,2025-06-05,Late
+Peyton,2025-02-28,On Leave
+Riley,2025-03-14,Absent
+David,2025-07-25,Absent
+Morgan,2025-07-20,Late
+Riley,2025-09-08,On Leave
+Jamie,2025-04-19,On Leave
+Alex,2025-04-06,Present
+Jordan,2025-04-30,On Leave
+Jordan,2025-11-21,Present
+Peyton,2025-11-04,Absent
+Alex,2025-12-10,On Leave
+Morgan,2025-01-27,On Leave
+Peyton,2025-07-26,Late
+Jamie,2025-02-11,On Leave
+Alex,2025-10-13,Present
+Morgan,2025-12-09,Absent
+Jamie,2025-11-23,On Leave
+Quinn,2025-08-03,Late
+Jamie,2025-11-30,Absent
+Quinn,2025-11-13,On Leave
+Casey,2025-07-07,Absent
+Taylor,2025-03-25,Present
+Morgan,2025-11-22,Late
+Avery,2025-12-01,On Leave
+Jordan,2025-11-16,Absent
+Riley,2025-05-05,Late
+Peyton,2025-04-14,On Leave
+Casey,2025-12-13,Present
+Avery,2025-03-19,Absent
+Casey,2025-05-11,Absent
+Jamie,2025-11-08,Present
+Jamie,2025-09-06,Present
+Jamie,2025-01-30,On Leave
+Morgan,2025-10-22,Present
+Jamie,2025-05-14,Late
+Casey,2025-02-20,Present
+Alex,2025-09-27,Absent
+Jordan,2025-09-20,Late
+Alex,2025-06-01,On Leave
+Jordan,2025-03-30,On Leave
+Taylor,2025-11-28,Absent
+Taylor,2025-01-01,On Leave
+Riley,2025-03-13,Absent
+Jordan,2025-02-27,Absent
+Jamie,2025-12-28,Late
+Jamie,2025-02-09,Absent
+Riley,2025-09-27,Absent
+Morgan,2025-06-03,Late
+Taylor,2025-04-15,On Leave
+Jamie,2025-04-27,On Leave
+Casey,2025-07-27,Present
+Peyton,2025-03-08,Present
+Jordan,2025-04-10,Present
+Riley,2025-07-30,Absent
+Morgan,2025-02-03,On Leave
+Anna,2025-06-15,On Leave
+Casey,2025-03-17,On Leave
+Taylor,2025-05-09,Present
+Casey,2025-09-07,Absent
+Jamie,2025-07-08,Late
+Jordan,2025-05-14,Present
+Alex,2025-02-04,On Leave
+Peyton,2025-06-05,Absent
+Jamie,2025-06-17,Present
+Taylor,2025-01-09,Late
+Casey,2025-11-21,On Leave
+Jordan,2025-02-24,On Leave
+Jamie,2025-02-20,Late
+Taylor,2025-10-08,Late
+Jamie,2025-08-20,Absent
+Jamie,2025-10-26,Present
+Jordan,2025-01-28,Late
+Jamie,2025-09-17,Absent
+Jamie,2025-12-11,On Leave
+Jordan,2025-03-31,Absent
+Jordan,2025-01-30,Present
+Quinn,2025-12-24,Late
+Alex,2025-09-18,Absent
+Peyton,2025-04-11,Absent
+Quinn,2025-04-29,On Leave
+Peyton,2025-01-13,Late
+Jordan,2025-11-13,Absent
+Taylor,2025-07-31,Late
+Avery,2025-06-07,Present
+Quinn,2025-12-11,Late
+Riley,2025-08-29,Present
+Jordan,2025-06-27,Late
+Avery,2025-10-13,On Leave
+Quinn,2025-03-14,On Leave
+Alex,2025-01-03,Present
+Alex,2025-07-14,On Leave
+Casey,2025-12-27,Present
+Casey,2025-09-16,On Leave
+Morgan,2025-09-14,On Leave
+Casey,2025-06-06,Present
+Morgan,2025-04-22,On Leave
+Morgan,2025-04-02,Present
+Peyton,2025-02-17,On Leave
+Quinn,2025-07-24,Absent
+Quinn,2025-09-07,On Leave
+Quinn,2025-07-07,Absent
+Jordan,2025-11-18,On Leave
+Alex,2025-01-16,Present
+Jordan,2025-01-25,On Leave
+Avery,2025-04-18,Late
+Jordan,2025-12-10,Late
+Taylor,2025-02-27,On Leave
+Alex,2025-03-12,On Leave
+Taylor,2025-07-08,Late
+Avery,2025-11-20,Present
+Jordan,2025-12-29,On Leave
+Peyton,2025-03-17,Absent
+Quinn,2025-10-01,Absent
+Jamie,2025-02-22,Present
+Avery,2025-10-21,Absent
+Morgan,2025-05-19,Late
+Jordan,2025-05-14,On Leave
+Avery,2025-06-20,Absent
+Jamie,2025-04-24,Late
+Peyton,2025-09-28,Absent
+Jamie,2025-12-26,Present
+Casey,2025-04-12,On Leave
+Peyton,2025-11-14,Present
+Casey,2025-04-05,Late
+Peyton,2025-03-14,Late
+Avery,2025-10-25,On Leave
+Alex,2025-02-12,On Leave
+Sandra,2025-09-05,On Leave
+Riley,2025-10-04,Present
+Morgan,2025-09-10,Absent
+Taylor,2025-08-04,Late
+Riley,2025-12-21,Late
+Avery,2025-07-17,On Leave
+Alex,2025-05-20,Late
+Casey,2025-03-15,Present
+Casey,2025-04-14,On Leave
+Jamie,2025-10-31,Present
+Riley,2025-04-25,Late
+Morgan,2025-12-14,On Leave
+Alex,2025-04-21,Present
+Jordan,2025-11-07,Present
+Taylor,2025-08-01,Absent
+Jordan,2025-03-08,Present
+Taylor,2025-08-19,Late
+Avery,2025-12-07,Absent
+Jordan,2025-12-14,On Leave
+Jordan,2025-01-20,Late
+Peyton,2025-08-26,On Leave
+Jordan,2025-10-03,On Leave
+Avery,2025-06-13,Present
+Peyton,2025-08-30,On Leave
+Shirley,2025-12-19,On Leave
+Christopher,2025-03-22,Absent
+Peyton,2025-06-22,Absent
+Peyton,2025-07-06,Present
+Alex,2025-11-09,On Leave
+Casey,2025-07-14,Absent
+Jamie,2025-02-16,Late
+Morgan,2025-08-07,Late
+Alex,2025-10-14,On Leave
+Jamie,2025-11-09,Present
+Avery,2025-02-18,Late
+Taylor,2025-11-14,Present
+Quinn,2025-04-24,Present
+Casey,2025-10-28,Present
+Jordan,2025-02-08,Absent
+Quinn,2025-04-02,Present
+Avery,2025-04-16,Late
+Riley,2025-04-26,Absent
+Taylor,2025-06-22,On Leave
+Quinn,2025-05-15,Late
+Morgan,2025-08-08,Late
+Jamie,2025-11-14,Absent
+Taylor,2025-03-31,Late
+Avery,2025-08-21,On Leave
+Donald,2025-07-23,Present
+Peyton,2025-02-26,On Leave
+Taylor,2025-11-06,Late
+Avery,2025-08-28,On Leave
+Casey,2025-02-16,Present
+Jamie,2025-10-12,Late
+Alex,2025-12-24,Present
+Alex,2025-06-30,Present
+Jordan,2025-05-20,On Leave
+Alex,2025-09-11,Late
+Avery,2025-10-12,Absent
+Avery,2025-11-20,Present
+Jordan,2025-04-18,On Leave
+Casey,2025-07-15,On Leave
+Jordan,2025-04-08,Late
+Alex,2025-04-21,Late
+Morgan,2025-02-15,Absent
+Avery,2025-04-28,Present
+Jordan,2025-06-11,On Leave
+Riley,2025-03-11,On Leave
+Morgan,2025-12-23,Present
+Quinn,2025-01-14,On Leave
+Katherine,2025-10-20,Late
+Jordan,2025-07-24,Absent
+Morgan,2025-05-31,Present
+Alex,2025-01-29,On Leave
+Avery,2025-05-11,Absent
+Morgan,2025-04-21,Late
+Jamie,2025-07-18,Present
+Alex,2025-07-08,Absent
+Taylor,2025-01-08,Absent
+Avery,2025-07-11,Present
+Alex,2025-02-08,Late
+Casey,2025-05-11,Late
+Jamie,2025-03-16,Present
+Peyton,2025-08-09,Absent
+Casey,2025-12-25,On Leave
+Jamie,2025-07-14,Present
+Morgan,2025-04-25,On Leave
+Peyton,2025-07-09,Absent
+Alex,2025-08-19,Present
+Avery,2025-08-19,Absent
+Morgan,2025-08-30,On Leave
+Quinn,2025-04-13,Late
+Morgan,2025-07-17,On Leave
+Jamie,2025-10-12,Late
+Taylor,2025-10-30,Late
+Alex,2025-11-22,Late
+Peyton,2025-06-09,Present
+Taylor,2025-02-03,Present
+Morgan,2025-07-25,Absent
+Jordan,2025-02-25,Absent
+Peyton,2025-01-18,Late
+Quinn,2025-12-31,Present
+Avery,2025-10-29,On Leave
+Quinn,2025-04-15,Absent
+Jordan,2025-10-17,Present
+Avery,2025-03-26,Late
+Morgan,2025-03-03,On Leave
+Peyton,2025-01-14,Present
+Jordan,2025-02-23,Late
+Avery,2025-01-31,Absent
+Quinn,2025-08-21,Present
+Jordan,2025-06-08,Late
+Casey,2025-04-05,Absent
+Casey,2025-05-02,Absent
+Quinn,2025-06-07,Present
+Jordan,2025-09-18,Late
+Peyton,2025-05-30,Late
+Jamie,2025-03-01,On Leave
+Casey,2025-08-04,Present
+Taylor,2025-05-21,Present
+Casey,2025-02-21,Late
+Jamie,2025-12-29,Late
+Jamie,2025-02-04,Present
+Taylor,2025-05-20,On Leave
+Quinn,2025-10-14,Present
+Jamie,2025-02-23,Late
+Casey,2025-11-04,Late
+Quinn,2025-04-16,Present
+Jamie,2025-04-24,On Leave
+Peyton,2025-04-13,Present
+Taylor,2025-03-19,On Leave
+Alex,2025-06-07,Absent
+Avery,2025-02-10,Late
+Taylor,2025-02-24,Absent
+Quinn,2025-07-24,On Leave
+Alex,2025-03-03,Absent
+Avery,2025-07-11,Absent
+Alex,2025-07-30,Absent
+Avery,2025-01-11,Present
+Quinn,2025-09-30,Late
+Morgan,2025-03-31,On Leave
+Jordan,2025-01-12,Late
+Jamie,2025-05-22,Absent
+Quinn,2025-07-27,Late
+Avery,2025-02-11,On Leave
+Taylor,2025-03-13,On Leave
+Jamie,2025-04-18,Late
+Quinn,2025-07-20,Late
+Casey,2025-05-18,On Leave
+Taylor,2025-09-21,Late
+Quinn,2025-07-13,On Leave
+Jamie,2025-12-02,On Leave
+Riley,2025-07-24,Absent
+Peyton,2025-12-08,Present
+Jordan,2025-07-13,Present
+Taylor,2025-05-26,Late
+Morgan,2025-07-19,Late
+Taylor,2025-02-17,On Leave
+Quinn,2025-05-14,Late
+Casey,2025-02-15,Late
+Alex,2025-05-08,Absent
+Avery,2025-09-03,Absent
+Jordan,2025-02-19,Present
+Taylor,2025-01-25,Present
+Quinn,2025-10-11,Present
+Morgan,2025-08-08,Late
+Peyton,2025-07-27,Present
+Jamie,2025-05-22,On Leave
+Peyton,2025-11-05,Absent
+Avery,2025-01-15,On Leave
+Jordan,2025-08-26,Absent
+Riley,2025-09-15,On Leave
+Casey,2025-08-30,Late
+Peyton,2025-08-23,Present
+Riley,2025-10-16,Present
+Peyton,2025-04-18,Absent
+Jamie,2025-05-09,Late
+Jordan,2025-04-25,Absent
+Riley,2025-09-21,Present
+Riley,2025-12-12,Late
+Riley,2025-07-16,Present
+Avery,2025-01-29,On Leave
+Avery,2025-12-18,Present
+Quinn,2025-06-05,On Leave
+Jonathan,2025-07-16,Absent
+Peyton,2025-04-30,On Leave
+Riley,2025-12-24,Present
+Jamie,2025-08-21,Present
+Alex,2025-07-27,Late
+Casey,2025-03-26,Present
+Avery,2025-06-12,Present
+Taylor,2025-10-01,Late
+Avery,2025-07-27,Absent
+Morgan,2025-07-16,Present
+Taylor,2025-09-30,Late
+Alex,2025-07-28,Absent
+Riley,2025-04-11,Absent
+Casey,2025-10-22,Late
+Morgan,2025-07-15,Present
+Jordan,2025-01-09,Late
+Jamie,2025-12-17,Present
+Alex,2025-06-07,Absent
+Quinn,2025-05-15,Absent
+Quinn,2025-04-19,Present
+Avery,2025-04-02,Late
+Casey,2025-03-09,Present
+Alex,2025-07-08,Present
+Peyton,2025-03-02,Absent
+Jamie,2025-05-01,On Leave
+Morgan,2025-08-04,Absent
+Quinn,2025-06-23,Present
+Alex,2025-06-02,On Leave
+Casey,2025-12-22,Present
+Casey,2025-07-08,On Leave
+Casey,2025-12-23,On Leave
+Avery,2025-11-05,Present
+Morgan,2025-03-17,Present
+Jordan,2025-05-30,On Leave
+Peyton,2025-02-02,Present
+Quinn,2025-03-10,Absent
+Thomas,2025-09-27,On Leave
+Casey,2025-10-15,On Leave
+Jordan,2025-04-16,Absent
+Avery,2025-02-05,Present
+Alex,2025-07-09,Present
+Avery,2025-01-21,On Leave
+Jordan,2025-12-07,Absent
+Casey,2025-07-03,Present
+Casey,2025-04-18,On Leave
+Peyton,2025-03-27,Absent
+Taylor,2025-06-17,Late
+Jack,2025-10-31,On Leave
+Alex,2025-10-14,Late
+Alex,2025-05-23,On Leave
+Taylor,2025-02-05,On Leave
+Peyton,2025-04-10,Late
+Avery,2025-07-14,Present
+Jordan,2025-06-14,Present
+Taylor,2025-05-17,Late
+Casey,2025-08-12,Absent
+Morgan,2025-01-30,Present
+Peyton,2025-04-19,Present
+Peyton,2025-04-18,Absent
+Jordan,2025-12-25,Absent
+Quinn,2025-10-10,Late
+Jamie,2025-05-29,Late
+Jordan,2025-07-04,On Leave
+Morgan,2025-06-03,On Leave
+Alex,2025-12-26,Present
+Jordan,2025-06-30,On Leave
+Avery,2025-06-24,Present
+Alex,2025-09-15,Present
+Quinn,2025-12-26,Present
+Jamie,2025-11-27,Present
+Jamie,2025-09-14,Present
+Morgan,2025-05-06,Present
+Riley,2025-12-10,Late
+Casey,2025-08-16,On Leave
+Jamie,2025-11-05,On Leave
+Jamie,2025-01-24,Late
+Taylor,2025-01-16,Present
+Peyton,2025-01-08,Late
+Jamie,2025-07-10,Late
+Quinn,2025-10-04,Present
+Morgan,2025-09-08,Absent
+Casey,2025-05-11,Absent
+Casey,2025-10-01,On Leave
+Casey,2025-09-21,Present
+Alex,2025-05-14,Late
+Jamie,2025-02-20,Absent
+Avery,2025-03-23,Present
+Casey,2025-08-26,Late
+Avery,2025-12-06,On Leave
+Taylor,2025-03-03,Absent
+Morgan,2025-07-15,Present
+Jamie,2025-03-25,Absent
+Jordan,2025-06-14,Absent
+Jamie,2025-10-12,Present
+Morgan,2025-08-09,Present
+Riley,2025-08-14,Absent
+Jamie,2025-11-15,On Leave
+Taylor,2025-12-25,On Leave
+Jamie,2025-02-21,Late
+Taylor,2025-10-22,Present
+Jamie,2025-11-03,Present
+Jamie,2025-03-18,Late
+Peyton,2025-01-12,Late
+Peyton,2025-11-12,On Leave
+Peyton,2025-10-07,Absent
+Jamie,2025-06-15,On Leave
+Riley,2025-01-29,On Leave
+Taylor,2025-07-02,On Leave
+Daniel,2025-05-10,On Leave
+Avery,2025-09-17,Absent
+Peyton,2025-04-30,Absent
+Rachel,2025-04-16,Present
+Alex,2025-03-13,Late
+Avery,2025-12-11,On Leave
+Quinn,2025-05-27,Present
+Alex,2025-06-21,Late
+Jamie,2025-06-23,Absent
+Avery,2025-02-02,On Leave
+Morgan,2025-07-16,Late
+Maria,2025-04-14,Present
+Quinn,2025-05-10,Present
+Avery,2025-10-10,Late
+Quinn,2025-11-21,Present
+Taylor,2025-01-17,Late
+Jamie,2025-11-29,Present
+Alex,2025-04-13,Late
+Avery,2025-08-25,Present
+Jordan,2025-04-22,Absent
+Casey,2025-09-14,Present
+Jamie,2025-03-27,Present
+Jordan,2025-10-10,Absent
+Deborah,2025-06-05,On Leave
+Peyton,2025-03-11,Present
+Taylor,2025-08-28,Absent
+Casey,2025-07-17,On Leave
+Casey,2025-04-30,Absent
+Taylor,2025-09-13,Present
+Peyton,2025-01-29,Late
+Jordan,2025-07-28,Late
+Riley,2025-02-14,Present
+Morgan,2025-08-07,Present
+Peyton,2025-12-15,Present
+Quinn,2025-11-06,Late
+Quinn,2025-05-10,On Leave
+Morgan,2025-07-11,Late
+Avery,2025-06-12,Late
+Casey,2025-04-17,Present
+Riley,2025-02-07,Present
+Avery,2025-08-08,Late
+Quinn,2025-01-08,On Leave
+Avery,2025-07-16,Present
+Quinn,2025-12-09,On Leave
+Casey,2025-10-09,Present
+Quinn,2025-05-28,Late
+Riley,2025-10-20,Absent
+Timothy,2025-07-22,Present
+Quinn,2025-11-19,On Leave
+Quinn,2025-03-06,Present
+Peyton,2025-01-18,On Leave
+Morgan,2025-09-13,Absent
+Casey,2025-08-08,Absent
+Casey,2025-06-20,Absent
+Peyton,2025-04-01,Late
+Alex,2025-12-16,On Leave
+Riley,2025-01-29,Present
+Casey,2025-04-23,Absent
+Jamie,2025-05-20,Present
+Peyton,2025-07-01,Present
+Morgan,2025-12-27,Late
+Casey,2025-04-20,Late
+Quinn,2025-09-07,Absent
+Morgan,2025-04-20,Present
+Alex,2025-01-06,Absent
+Casey,2025-05-30,Late
+Casey,2025-07-17,On Leave
+Taylor,2025-03-31,On Leave
+Avery,2025-01-17,On Leave
+Nicole,2025-02-07,On Leave
+Casey,2025-12-25,Present
+Taylor,2025-08-29,Late
+Riley,2025-12-22,Late
+Jamie,2025-12-08,Present
+Casey,2025-12-28,Late
+Casey,2025-03-03,Late
+Casey,2025-10-10,On Leave
+Casey,2025-08-06,On Leave
+Riley,2025-07-04,On Leave
+Casey,2025-02-18,Late
+Jamie,2025-03-29,Late
+Riley,2025-08-24,Late
+Taylor,2025-04-14,On Leave
+Avery,2025-05-01,Present
+Alex,2025-11-10,Present
+Morgan,2025-05-06,Absent
+Avery,2025-03-08,Present
+Taylor,2025-09-06,Present
+Jeffrey,2025-06-19,Present
+Taylor,2025-07-06,Late
+Casey,2025-08-29,Late
+Quinn,2025-04-08,On Leave
+Avery,2025-09-06,On Leave
+Casey,2025-08-01,Late
+Riley,2025-07-04,Absent
+Casey,2025-07-18,Absent
+Jamie,2025-05-27,Present
+Taylor,2025-06-04,On Leave
+Avery,2025-01-28,Present
+Morgan,2025-01-12,Late
+Taylor,2025-11-26,Absent
+Jamie,2025-02-13,Present
+Jamie,2025-06-22,On Leave
+Alex,2025-07-27,Absent
+Jordan,2025-09-14,Late
+Avery,2025-12-26,Late
+Jamie,2025-04-03,Present
+Alex,2025-09-22,On Leave
+Casey,2025-12-18,Absent
+Alex,2025-10-31,Present
+Riley,2025-11-09,Absent
+Riley,2025-04-17,Late
+Jordan,2025-06-07,Absent
+Quinn,2025-10-13,Absent
+Quinn,2025-05-23,Late
+Alex,2025-03-13,Present
+Taylor,2025-12-05,Present
+Alex,2025-11-15,Absent
+Quinn,2025-10-18,Absent
+Avery,2025-11-04,Absent
+Jordan,2025-02-06,Present
+Quinn,2025-05-10,Absent
+Jordan,2025-03-17,Present
+Morgan,2025-10-11,Absent
+Morgan,2025-05-10,Late
+Quinn,2025-05-06,Present
+Casey,2025-08-20,Absent
+Quinn,2025-03-02,Absent
+Riley,2025-04-21,Present
+Peyton,2025-02-01,On Leave
+Taylor,2025-03-29,Late
+Peyton,2025-09-19,Absent
+Jordan,2025-08-14,Late
+Jordan,2025-02-04,On Leave
+Casey,2025-10-12,Absent
+Morgan,2025-06-13,Absent
+Riley,2025-10-03,Absent
+Taylor,2025-05-12,Absent
+Avery,2025-11-06,Absent
+Jamie,2025-04-24,Present
+Taylor,2025-10-12,Present
+Casey,2025-02-02,On Leave
+Taylor,2025-05-24,Absent
+Casey,2025-01-20,On Leave
+Avery,2025-02-06,Present
+Quinn,2025-07-07,Present
+Quinn,2025-03-26,Present
+Taylor,2025-05-17,On Leave
+Peyton,2025-11-18,On Leave
+Jordan,2025-04-26,Present
+Riley,2025-12-10,Present
+Riley,2025-09-13,Late
+Jamie,2025-05-28,On Leave
+Peyton,2025-06-13,Late
+Peyton,2025-02-07,Present
+Riley,2025-09-24,Late
+Riley,2025-01-28,On Leave
+Avery,2025-08-27,Late
+Jordan,2025-02-18,On Leave
+Alex,2025-04-16,Late
+Morgan,2025-12-11,Absent
+Jamie,2025-09-30,Present
+Peyton,2025-02-18,Late
+Quinn,2025-05-16,Present
+Peyton,2025-05-24,Late
+Alex,2025-10-04,Late
+Alex,2025-04-11,On Leave
+Alex,2025-05-18,On Leave
+Peyton,2025-09-04,Present
+Riley,2025-05-12,Absent
+Alex,2025-09-19,On Leave
+Jordan,2025-04-04,Late
+Avery,2025-11-24,On Leave
+Avery,2025-04-29,On Leave
+Taylor,2025-11-01,Present
+Avery,2025-03-08,Late
+Alex,2025-11-06,On Leave
+Taylor,2025-03-25,Late
+Morgan,2025-05-17,On Leave
+Alex,2025-09-19,Present
+Jamie,2025-05-07,Late
+Riley,2025-02-18,Absent
+Jamie,2025-10-19,Late
+Riley,2025-10-26,Late
+Alex,2025-11-29,Late
+Alex,2025-06-17,Absent
+Jamie,2025-04-03,Absent
+Peyton,2025-03-12,Late
+Jennifer,2025-01-26,Absent
+Morgan,2025-12-20,Absent
+Quinn,2025-02-01,Absent
+Jordan,2025-08-25,Present
+Avery,2025-10-11,Absent
+Jordan,2025-04-04,Present
+Jordan,2025-01-17,Present
+Riley,2025-10-26,On Leave
+Morgan,2025-10-14,Late
+Morgan,2025-02-05,On Leave
+Quinn,2025-05-04,Present
+Jordan,2025-06-19,Late
+Riley,2025-01-25,Absent
+Casey,2025-11-04,Present
+Anthony,2025-08-04,Late
+Casey,2025-12-20,Absent
+Peyton,2025-08-01,Absent
+Morgan,2025-10-05,Present
+Jamie,2025-10-18,Absent
+Quinn,2025-02-26,Late
+Avery,2025-06-26,Present
+Taylor,2025-07-30,Present
+Morgan,2025-03-01,Absent
+Riley,2025-01-25,Present
+Jordan,2025-09-26,On Leave
+Jamie,2025-11-13,Present
+Jordan,2025-08-08,On Leave
+Casey,2025-04-09,Absent
+Morgan,2025-08-09,Present
+Jamie,2025-04-09,On Leave
+Taylor,2025-04-30,Absent
+Casey,2025-06-11,Late
+Riley,2025-08-11,Absent
+Taylor,2025-05-16,On Leave
+Casey,2025-06-07,Present
+Morgan,2025-12-10,Late
+Morgan,2025-09-13,Present
+Morgan,2025-09-13,On Leave
+Morgan,2025-12-10,Late
+Quinn,2025-11-13,On Leave
+Avery,2025-06-04,Absent
+Alex,2025-05-25,Present
+Quinn,2025-04-21,Absent
+Alex,2025-07-03,Late
+Casey,2025-04-03,Present
+Alex,2025-03-16,Present
+Jordan,2025-07-03,On Leave
+Avery,2025-02-21,Present
+Morgan,2025-09-19,Absent
+Quinn,2025-02-08,Absent
+Peyton,2025-07-30,On Leave
+Jamie,2025-01-21,Absent
+Alex,2025-05-30,On Leave
+Avery,2025-09-19,Late
+Quinn,2025-05-30,On Leave
+Riley,2025-04-09,Present
+Riley,2025-05-26,On Leave
+Ashley,2025-02-25,Absent
+Alex,2025-08-01,Absent
+Riley,2025-10-24,Absent
+Quinn,2025-12-04,Absent
+Jamie,2025-07-21,Absent
+Taylor,2025-06-16,On Leave
+Casey,2025-11-08,Absent
+Alex,2025-03-15,Present
+Morgan,2025-10-09,On Leave
+Jordan,2025-03-09,Late
+Quinn,2025-12-02,Present
+Avery,2025-09-19,Late
+Riley,2025-11-30,Present
+Jamie,2025-08-27,Late
+Alex,2025-12-23,Late
+Casey,2025-09-21,Absent
+Taylor,2025-10-08,Late
+Quinn,2025-05-05,Late
+Avery,2025-09-27,Late
+Jamie,2025-05-10,Absent
+Riley,2025-09-15,Present
+Riley,2025-07-03,Late
+Avery,2025-07-15,On Leave
+Avery,2025-09-10,Absent
+Jamie,2025-02-14,On Leave
+Casey,2025-10-10,Present
+Peyton,2025-05-11,Present
+Alex,2025-06-20,Absent
+Taylor,2025-06-19,Present
+Taylor,2025-12-08,Present
+Jordan,2025-10-07,On Leave
+Peyton,2025-02-10,Late
+Peyton,2025-04-08,Absent
+Taylor,2025-11-18,Late
+Jordan,2025-03-05,Late
+Casey,2025-10-01,Present
+Charles,2025-03-04,Present
+Jordan,2025-04-17,Absent
+Alex,2025-08-20,On Leave
+Jamie,2025-08-26,Absent
+Morgan,2025-10-20,Late
+Morgan,2025-12-14,Late
+Riley,2025-03-08,Absent
+Alex,2025-03-17,Late
+Morgan,2025-09-18,Present
+Morgan,2025-01-03,Absent
+Alex,2025-08-01,Absent
+Taylor,2025-12-01,Absent
+Morgan,2025-05-09,Late
+Alex,2025-06-17,Present
+Peyton,2025-05-29,Present
+Alex,2025-03-15,On Leave
+Jordan,2025-02-04,Late
+Alex,2025-04-03,Present
+Jamie,2025-12-23,Present
+Quinn,2025-08-05,Late
+Jamie,2025-03-21,Absent
+Riley,2025-05-08,On Leave
+Casey,2025-12-02,On Leave
+Alex,2025-11-08,Present
+Jamie,2025-09-01,Late
+Riley,2025-04-01,Absent
+Peyton,2025-08-05,On Leave
+Taylor,2025-10-26,Present
+Alex,2025-11-09,On Leave
+Avery,2025-09-08,Absent
+Avery,2025-03-21,Late
+Morgan,2025-12-05,Absent
+Jordan,2025-05-24,Late
+Peyton,2025-04-08,Absent
+Morgan,2025-05-05,Absent
+Morgan,2025-12-28,On Leave
+Avery,2025-04-26,Absent
+Morgan,2025-01-27,On Leave
+Jordan,2025-09-02,On Leave
+Casey,2025-01-09,On Leave
+Quinn,2025-05-06,Late
+Riley,2025-04-29,On Leave
+Morgan,2025-02-12,Present
+Peyton,2025-04-17,Absent
+Quinn,2025-03-21,Absent
+Riley,2025-12-02,Late
+Casey,2025-06-24,Late
+Jordan,2025-05-04,Absent
+Taylor,2025-08-22,On Leave
+Jamie,2025-03-22,On Leave
+Riley,2025-01-29,Present
+Riley,2025-05-21,Absent
+Carol,2025-10-25,Present
+Alex,2025-06-20,On Leave
+Jordan,2025-11-14,Present
+Riley,2025-08-20,Present
+Morgan,2025-11-29,Absent
+Quinn,2025-10-26,Absent
+Jamie,2025-12-15,Present
+Morgan,2025-05-12,Present
+Taylor,2025-09-17,On Leave
+Avery,2025-08-17,Present
+Morgan,2025-10-10,On Leave
+Avery,2025-07-07,Absent
+Jordan,2025-12-23,Absent
+Casey,2025-01-14,Absent
+Jamie,2025-06-21,Absent
+Morgan,2025-07-15,On Leave
+Casey,2025-04-26,Absent
+Morgan,2025-02-02,Present
+Quinn,2025-04-01,Late
+Quinn,2025-06-09,Late
+Alex,2025-06-10,Present
+Alex,2025-12-15,Late
+Avery,2025-07-28,Late
+Jordan,2025-03-20,On Leave
+Peyton,2025-01-13,On Leave
+Avery,2025-12-17,Late
+Riley,2025-10-31,Late
+Morgan,2025-10-24,On Leave
+Peyton,2025-07-26,Present
+Riley,2025-07-12,Late
+Quinn,2025-05-03,Late
+Jamie,2025-08-04,On Leave
+Peyton,2025-01-10,Absent
+Alex,2025-10-30,Absent
+Quinn,2025-01-01,Present
+Taylor,2025-11-07,On Leave
+Avery,2025-10-19,Absent
+Peyton,2025-07-02,Present
+Jamie,2025-02-21,On Leave
+Alex,2025-09-10,On Leave
+Jessica,2025-10-29,Late
+Jordan,2025-03-29,Absent
+Riley,2025-03-09,Late
+Riley,2025-12-02,Absent
+Riley,2025-01-16,On Leave
+Riley,2025-08-09,On Leave
+Morgan,2025-11-14,Absent
+Casey,2025-01-17,Late
+Avery,2025-02-19,On Leave
+Morgan,2025-01-18,On Leave
+Jamie,2025-08-10,Present
+Taylor,2025-10-25,Late
+Taylor,2025-02-24,On Leave
+Riley,2025-10-21,Present
+Avery,2025-01-29,On Leave
+Jamie,2025-06-05,Absent
+Avery,2025-04-23,Present
+Casey,2025-05-15,On Leave
+Morgan,2025-12-13,On Leave
+Alex,2025-09-29,Late
+Alex,2025-10-03,Present
+Taylor,2025-11-03,Absent
+Jamie,2025-08-07,Absent
+Peyton,2025-11-12,Present
+Casey,2025-09-06,Absent
+Jamie,2025-12-15,Absent
+Jordan,2025-04-23,Late
+Taylor,2025-01-23,Absent
+Taylor,2025-01-18,Present
+Avery,2025-07-09,Present
+Jamie,2025-08-21,Absent
+Morgan,2025-02-24,Absent
+Quinn,2025-11-28,Present
+Taylor,2025-06-12,Absent
+Kenneth,2025-04-06,On Leave
+Quinn,2025-07-11,Absent
+Jamie,2025-02-13,Late
+Jordan,2025-05-13,Present
+Jordan,2025-08-10,On Leave
+Riley,2025-02-01,Absent
+Jamie,2025-07-02,Present
+Jordan,2025-05-15,Absent
+Alex,2025-01-14,Absent
+Jordan,2025-10-28,Late
+Alex,2025-07-10,Present
+Taylor,2025-12-22,Present
+Jordan,2025-11-18,Late
+Jamie,2025-01-28,Late
+Jordan,2025-10-11,On Leave
+Jamie,2025-02-03,Present
+Avery,2025-04-26,Late
+Peyton,2025-03-24,Absent
+Jordan,2025-01-11,Absent
+Alex,2025-05-02,Present
+Jordan,2025-03-12,Absent
+Riley,2025-05-26,Late
+Riley,2025-08-16,Late
+Alex,2025-02-25,Present
+Riley,2025-01-05,Present
+Jamie,2025-06-13,On Leave
+Jordan,2025-01-10,Late
+Riley,2025-01-31,Absent
+Morgan,2025-06-08,On Leave
+Casey,2025-03-17,Absent
+Avery,2025-07-01,Late
+Peyton,2025-04-07,Absent
+Peyton,2025-10-28,Absent
+Morgan,2025-06-19,On Leave
+Quinn,2025-01-28,Late
+Avery,2025-06-17,On Leave
+Casey,2025-10-11,Absent
+Peyton,2025-07-13,Late
+Alex,2025-03-28,Late
+Alex,2025-10-07,Absent
+Peyton,2025-04-24,Present
+Peyton,2025-05-27,On Leave
+Taylor,2025-10-14,Present
+Jordan,2025-05-25,Late
+Casey,2025-07-15,Absent
+Jordan,2025-07-10,Present
+Alex,2025-07-07,Present
+Taylor,2025-01-14,Absent
+Jordan,2025-05-29,Late
+Alex,2025-04-20,Late
+Jordan,2025-03-31,On Leave
+Alex,2025-06-10,On Leave
+Alex,2025-11-19,Present
+Jamie,2025-11-30,Late
+Peyton,2025-10-15,Absent
+Quinn,2025-06-25,On Leave
+Jordan,2025-03-07,On Leave
+Rebecca,2025-02-20,Absent
+Alex,2025-02-07,Late
+Casey,2025-09-06,On Leave
+Jamie,2025-04-26,Late
+Taylor,2025-06-25,Present
+Riley,2025-01-07,Absent
+Quinn,2025-01-26,Present
+Morgan,2025-06-12,On Leave
+Riley,2025-09-13,Late
+Casey,2025-04-29,Late
+Jordan,2025-05-18,On Leave
+Peyton,2025-11-27,Absent
+Alex,2025-07-31,Late
+Riley,2025-06-27,On Leave
+Morgan,2025-01-20,On Leave
+Jordan,2025-11-17,Late
+Riley,2025-01-24,Late
+Riley,2025-08-14,Late
+Casey,2025-02-07,Present
+Taylor,2025-10-07,Late
+Jordan,2025-09-18,Late
+Jordan,2025-11-26,Present
+Casey,2025-05-30,Present
+Alex,2025-05-26,On Leave
+Casey,2025-07-10,Absent
+Quinn,2025-03-14,On Leave
+Jordan,2025-05-29,Absent
+Casey,2025-11-17,Late
+Peyton,2025-08-14,Late
+Alex,2025-06-03,Absent
+Peyton,2025-02-27,On Leave
+Avery,2025-06-22,Late
+Riley,2025-08-01,On Leave
+Peyton,2025-12-09,On Leave
+Quinn,2025-09-25,On Leave
+Riley,2025-11-15,On Leave
+Casey,2025-03-24,Absent
+Jordan,2025-06-20,Present
+Avery,2025-03-14,Absent
+Alex,2025-03-20,Present
+Jordan,2025-01-08,Absent
+Taylor,2025-04-10,On Leave
+Morgan,2025-11-25,Absent
+Quinn,2025-11-13,Late
+Alex,2025-09-09,Late
+Jordan,2025-03-04,On Leave
+Taylor,2025-01-17,Late
+Quinn,2025-10-26,Present
+Jordan,2025-08-02,On Leave
+Peyton,2025-11-05,Present
+Peyton,2025-07-01,Late
+Morgan,2025-08-12,Present
+Morgan,2025-07-23,Present
+Morgan,2025-10-27,Present
+Quinn,2025-04-10,Absent
+Jamie,2025-01-16,On Leave
+Peyton,2025-10-02,Present
+Avery,2025-10-19,Late
+Taylor,2025-05-31,Absent
+Alex,2025-01-14,Present
+Jamie,2025-12-19,Present
+Casey,2025-03-04,On Leave
+Jordan,2025-10-16,On Leave
+Jordan,2025-01-17,On Leave
+Quinn,2025-02-28,On Leave
+Avery,2025-02-09,Present
+Taylor,2025-04-20,Absent
+Morgan,2025-03-23,Late
+Casey,2025-07-23,Present
+Peyton,2025-04-24,Absent
+Taylor,2025-06-27,Late
+Alex,2025-06-03,Absent
+Riley,2025-10-30,Absent
+Alex,2025-08-25,Present
+Jordan,2025-12-03,On Leave
+Avery,2025-12-05,Absent
+Jordan,2025-06-15,Absent
+Peyton,2025-12-01,Late
+Alex,2025-03-07,On Leave
+Peyton,2025-04-26,Absent
+Jordan,2025-12-02,Late
+Jordan,2025-12-03,Late
+Jamie,2025-01-15,Absent
+Jamie,2025-07-27,Absent
+Taylor,2025-06-15,On Leave
+Alex,2025-01-18,Absent
+Quinn,2025-07-07,Present
+Quinn,2025-08-15,Absent
+Alex,2025-10-22,Absent
+Alex,2025-12-11,Present
+Peyton,2025-04-24,Absent
+Quinn,2025-06-20,On Leave
+Peyton,2025-07-03,On Leave
+Peyton,2025-05-25,Late
+Peyton,2025-04-04,Late
+Jamie,2025-04-11,Late
+Casey,2025-02-08,Late
+Morgan,2025-04-07,Late
+Avery,2025-07-11,On Leave
+Casey,2025-01-22,Absent
+Jordan,2025-11-08,Present
+Casey,2025-09-11,On Leave
+Riley,2025-06-02,Present
+Morgan,2025-03-14,Absent
+Taylor,2025-10-02,On Leave
+Quinn,2025-08-12,Present
+Avery,2025-01-05,On Leave
+Jordan,2025-07-28,Late
+Riley,2025-08-24,Late
+Taylor,2025-08-16,Absent
+Jordan,2025-08-28,Present
+Casey,2025-10-17,On Leave
+Peyton,2025-03-26,Late
+Casey,2025-07-27,Present
+Quinn,2025-03-14,On Leave
+Morgan,2025-10-03,Absent
+Jordan,2025-06-04,Present
+Casey,2025-07-31,Late
+Morgan,2025-07-07,On Leave
+Riley,2025-05-12,On Leave
+Riley,2025-05-21,Late
+Morgan,2025-01-21,Present
+Avery,2025-05-11,Absent
+Peyton,2025-07-21,Present
+Jordan,2025-10-28,Absent
+Taylor,2025-06-26,On Leave
+Quinn,2025-06-25,Absent
+Quinn,2025-09-13,Absent
+Morgan,2025-05-27,Present
+Jordan,2025-12-19,Late
+Peyton,2025-02-03,Present
+Avery,2025-02-10,Late
+Morgan,2025-02-24,Present
+Casey,2025-08-05,On Leave
+Quinn,2025-09-07,Present
+Riley,2025-07-16,Absent
+Avery,2025-11-18,On Leave
+Jamie,2025-02-21,Late
+Avery,2025-09-30,On Leave
+Casey,2025-02-03,Absent
+Riley,2025-03-10,On Leave
+Riley,2025-09-28,Late
+Jamie,2025-12-18,Present
+Avery,2025-03-09,Present
+Casey,2025-06-27,Present
+Riley,2025-05-30,Absent
+Avery,2025-11-05,Absent
+Taylor,2025-12-22,Absent
+Taylor,2025-06-18,Late
+Casey,2025-12-03,Late
+Jordan,2025-07-25,Present
+Jordan,2025-09-28,Absent
+Peyton,2025-07-22,Late
+Peyton,2025-09-04,Present
+Jordan,2025-08-06,On Leave
+Peyton,2025-07-02,On Leave
+Riley,2025-09-15,Absent
+Morgan,2025-08-11,Absent
+Quinn,2025-02-01,Late
+Alex,2025-12-31,On Leave
+Casey,2025-11-19,Present
+Alex,2025-07-30,On Leave
+Jamie,2025-03-27,Late
+Casey,2025-12-23,Late
+Jordan,2025-01-31,Absent
+Alex,2025-05-05,Late
+Quinn,2025-03-10,Absent
+Casey,2025-04-27,Late
+Casey,2025-03-19,Present
+Quinn,2025-06-30,Late
+Riley,2025-02-23,Absent
+Taylor,2025-06-22,Present
+Morgan,2025-02-24,Late
+Avery,2025-12-11,On Leave
+Quinn,2025-08-10,Present
+Quinn,2025-09-17,Absent
+Quinn,2025-03-04,Present
+Jordan,2025-11-03,Late
+Jamie,2025-08-13,Present
+Riley,2025-05-09,Present
+Casey,2025-05-03,Present
+Peyton,2025-01-01,Present
+Jamie,2025-01-26,On Leave
+Avery,2025-01-07,Late
+Alex,2025-08-16,Absent
+Morgan,2025-02-26,Present
+Jordan,2025-12-19,Late
+Avery,2025-02-23,Late
+Taylor,2025-04-04,Absent
+Avery,2025-07-25,Absent
+Taylor,2025-07-26,Late
+Avery,2025-03-20,On Leave
+Jordan,2025-06-21,Late
+Alex,2025-04-22,On Leave
+Morgan,2025-02-28,Present
+Taylor,2025-07-19,Present
+Jordan,2025-09-19,Absent
+Casey,2025-06-11,Present
+Alex,2025-05-27,Present
+Casey,2025-11-14,Absent
+Jordan,2025-01-05,Late
+Avery,2025-03-27,Absent
+Peyton,2025-06-27,Absent
+Riley,2025-02-16,Present
+Jordan,2025-09-17,Absent
+Quinn,2025-02-07,On Leave
+Morgan,2025-08-25,Late
+Morgan,2025-05-30,Present
+Avery,2025-06-10,Late
+Taylor,2025-08-22,On Leave
+Jordan,2025-09-12,On Leave
+Avery,2025-06-04,On Leave
+Jordan,2025-06-14,Present
+Peyton,2025-05-15,Present
+Riley,2025-03-11,Absent
+Jamie,2025-02-26,Late
+Peyton,2025-03-25,Present
+Avery,2025-09-28,Late
+Casey,2025-12-14,Absent
+Jamie,2025-10-05,Late
+Jamie,2025-09-14,Present
+Taylor,2025-03-27,Present
+Avery,2025-04-15,On Leave
+Quinn,2025-01-22,Present
+Casey,2025-08-21,Present
+Alex,2025-12-27,On Leave
+Jamie,2025-07-24,Late
+Riley,2025-08-02,Absent
+Quinn,2025-10-25,Present
+Casey,2025-09-14,Late
+Alex,2025-02-25,On Leave
+Alex,2025-02-24,Late
+Peyton,2025-05-20,Late
+Quinn,2025-05-23,Late
+Alex,2025-06-04,Absent
+Riley,2025-03-10,Late
+Morgan,2025-07-08,Present
+Taylor,2025-02-23,Late
+Casey,2025-02-28,Absent
+Peyton,2025-02-01,On Leave
+Casey,2025-11-02,Absent
+Alex,2025-03-07,Present
+Taylor,2025-01-04,Absent
+Casey,2025-03-31,Absent
+Morgan,2025-01-08,Late
+Peyton,2025-11-16,Absent
+Casey,2025-11-09,Absent
+Taylor,2025-10-24,Absent
+Lisa,2025-03-14,On Leave
+Avery,2025-11-11,Absent
+Jordan,2025-11-03,Late
+Taylor,2025-11-18,Present
+Jordan,2025-02-28,Late
+Morgan,2025-06-16,Late
+Alex,2025-08-17,Present
+Alex,2025-10-19,Absent
+Morgan,2025-07-01,Late
+Jamie,2025-09-30,Late
+Avery,2025-08-29,Late
+Jordan,2025-02-26,Late
+Alex,2025-10-27,On Leave
+Jamie,2025-11-09,On Leave
+Casey,2025-03-17,Late
+Quinn,2025-06-05,Absent
+Avery,2025-10-29,On Leave
+Jordan,2025-03-30,On Leave
+Peyton,2025-06-21,Present
+Quinn,2025-01-27,Absent
+Quinn,2025-05-29,Present
+Riley,2025-02-19,Late
+Avery,2025-09-28,On Leave
+Taylor,2025-11-11,Present
+Morgan,2025-03-17,Present
+Quinn,2025-06-16,Late
+Casey,2025-05-23,On Leave
+Taylor,2025-01-24,On Leave
+Casey,2025-07-16,On Leave
+Jordan,2025-06-13,Present
+Jordan,2025-08-30,Late
+Taylor,2025-05-02,Late
+Peyton,2025-10-30,Late
+Avery,2025-04-28,On Leave
+Avery,2025-10-24,Present
+Jordan,2025-10-06,Present
+Morgan,2025-06-10,Late
+Avery,2025-06-30,Present
+Casey,2025-02-14,On Leave
+Quinn,2025-09-27,On Leave
+Avery,2025-06-27,Present
+Casey,2025-09-22,On Leave
+Morgan,2025-05-07,On Leave
+Jordan,2025-07-29,On Leave
+Taylor,2025-03-03,On Leave
+Morgan,2025-04-07,On Leave
+Taylor,2025-07-23,Late
+Taylor,2025-10-16,Late
+Alex,2025-01-23,Present
+Jordan,2025-10-12,Absent
+Taylor,2025-10-11,Present
+Morgan,2025-05-08,Present
+Brenda,2025-07-26,Late
+Alex,2025-08-31,Present
+Riley,2025-04-30,Present
+Jamie,2025-06-24,Late
+Avery,2025-01-12,On Leave
+Jamie,2025-06-04,On Leave
+Casey,2025-06-26,Present
+Morgan,2025-04-10,Absent
+Alex,2025-12-08,Absent
+Alex,2025-06-22,On Leave
+Riley,2025-11-03,On Leave
+Avery,2025-04-24,On Leave
+Morgan,2025-05-16,Present
+Taylor,2025-02-18,On Leave
+Jordan,2025-10-24,On Leave
+Taylor,2025-05-03,Absent
+Quinn,2025-04-01,On Leave
+Taylor,2025-01-22,Absent
+Jordan,2025-08-13,On Leave
+Riley,2025-05-16,Present
+Avery,2025-08-19,On Leave
+Taylor,2025-12-03,Absent
+Avery,2025-03-17,Late
+Casey,2025-07-26,Absent
+Riley,2025-08-22,Absent
+Casey,2025-01-01,Late
+Casey,2025-08-14,Late
+Peyton,2025-11-15,On Leave
+Quinn,2025-07-27,Absent
+Jamie,2025-07-26,Present
+Taylor,2025-08-13,Present
+Casey,2025-01-03,Absent
+Jordan,2025-09-30,Late
+Avery,2025-12-15,Late
+Jamie,2025-04-30,On Leave
+Casey,2025-03-16,Absent
+Morgan,2025-10-16,Present
+Peyton,2025-10-17,Absent
+Alex,2025-12-11,On Leave
+Jamie,2025-09-08,Absent
+Quinn,2025-01-13,Present
+Jamie,2025-06-03,Late
+Quinn,2025-10-16,Absent
+Jamie,2025-12-19,Present
+Riley,2025-07-18,Present
+Casey,2025-05-01,Late
+Morgan,2025-03-28,Late
+Jordan,2025-06-30,On Leave
+Avery,2025-03-25,Present
+Riley,2025-01-29,On Leave
+Alex,2025-02-23,On Leave
+Quinn,2025-08-06,Late
+Morgan,2025-02-09,Present
+Jamie,2025-05-12,Present
+Morgan,2025-07-20,Late
+Morgan,2025-10-10,Present
+Alex,2025-07-24,On Leave
+Peyton,2025-05-04,Late
+Jamie,2025-05-24,Present
+Avery,2025-07-06,Present
+Casey,2025-09-08,On Leave
+Taylor,2025-03-12,Late
+Riley,2025-07-18,Absent
+Jordan,2025-02-11,On Leave
+Morgan,2025-06-28,Absent
+Casey,2025-08-10,Absent
+Avery,2025-05-20,Absent
+Morgan,2025-02-12,On Leave
+Taylor,2025-12-11,Late
+Alex,2025-08-17,On Leave
+Morgan,2025-07-16,Late
+Taylor,2025-10-25,Present
+Peyton,2025-01-03,Present
+Taylor,2025-01-19,Present
+Jamie,2025-11-21,On Leave
+Casey,2025-02-03,On Leave
+Peyton,2025-08-19,Absent
+Avery,2025-08-25,Present
+Alex,2025-05-09,Late
+Riley,2025-03-04,Late
+Jamie,2025-09-02,Late
+Casey,2025-04-18,Present
+Jordan,2025-02-25,Absent
+Jordan,2025-09-24,Late
+Morgan,2025-02-18,Absent
+Casey,2025-10-29,Present
+Jordan,2025-07-20,On Leave
+Quinn,2025-02-16,Absent
+Taylor,2025-08-22,On Leave
+Morgan,2025-10-27,Present
+Morgan,2025-11-14,On Leave
+Quinn,2025-07-29,On Leave
+Alex,2025-08-01,On Leave
+Taylor,2025-12-22,Absent
+Jordan,2025-07-26,On Leave
+Taylor,2025-10-05,Late
+Avery,2025-07-08,Late
+Alex,2025-12-26,Absent
+Casey,2025-11-07,Present
+Taylor,2025-04-04,Late
+Morgan,2025-06-11,Absent
+Morgan,2025-03-12,On Leave
+Jamie,2025-08-05,On Leave
+Avery,2025-11-06,Absent
+Peyton,2025-04-18,Late
+Jamie,2025-11-08,Absent
+Peyton,2025-01-31,Absent
+Quinn,2025-12-30,Present
+Alex,2025-03-23,Absent
+Morgan,2025-07-03,Absent
+Jordan,2025-02-28,On Leave
+Taylor,2025-06-05,Absent
+Jordan,2025-10-05,On Leave
+Jordan,2025-12-17,On Leave
+Alex,2025-10-31,Absent
+Avery,2025-12-29,Late
+Riley,2025-02-25,Late
+Casey,2025-03-11,Absent
+Taylor,2025-12-06,Present
+Riley,2025-10-24,Late
+Quinn,2025-10-20,Present
+Casey,2025-05-01,Late
+Jordan,2025-12-09,Late
+Casey,2025-01-19,On Leave
+Avery,2025-09-30,On Leave
+Jordan,2025-01-09,Late
+Avery,2025-11-18,On Leave
+Peyton,2025-05-20,Late
+Morgan,2025-01-09,Late
+Quinn,2025-09-25,Absent
+Quinn,2025-03-23,Present
+Taylor,2025-10-01,Late
+Jamie,2025-07-31,Late
+Jordan,2025-11-08,Absent
+Jamie,2025-04-19,Absent
+Riley,2025-08-08,On Leave
+Alex,2025-05-17,On Leave
+Morgan,2025-06-19,Present
+Quinn,2025-08-12,Absent
+Peyton,2025-06-01,Late
+Casey,2025-01-06,On Leave
+Avery,2025-05-20,On Leave
+Avery,2025-03-28,Present
+Casey,2025-03-31,Late
+Riley,2025-12-21,Late
+Taylor,2025-09-24,Absent
+Quinn,2025-09-12,Absent
+Jamie,2025-08-02,Present
+Jamie,2025-07-26,Present
+Riley,2025-05-31,Present
+Alex,2025-02-25,On Leave
+Jordan,2025-06-19,Late
+Quinn,2025-10-31,Late
+Casey,2025-01-31,On Leave
+Riley,2025-11-18,Absent
+Peyton,2025-06-17,Absent
+Quinn,2025-09-01,Absent
+Peyton,2025-12-27,On Leave
+Jordan,2025-04-25,Late
+Quinn,2025-08-03,Absent
+Jamie,2025-01-23,Late
+Alex,2025-06-16,Absent
+Peyton,2025-02-24,Absent
+Avery,2025-12-30,Present
+Taylor,2025-06-30,On Leave
+Quinn,2025-09-13,Present
+Quinn,2025-01-04,On Leave
+Morgan,2025-09-18,On Leave
+Riley,2025-01-16,Late
+Avery,2025-06-12,Present
+Jamie,2025-01-10,Absent
+Casey,2025-07-19,Late
+Casey,2025-01-31,Present
+Riley,2025-08-23,Absent
+Taylor,2025-06-03,Absent
+Casey,2025-05-07,Absent
+Jamie,2025-11-01,On Leave
+Alex,2025-04-11,On Leave
+Alex,2025-01-31,On Leave
+Richard,2025-05-04,On Leave
+Casey,2025-06-04,Absent
+Taylor,2025-07-20,On Leave
+Avery,2025-12-09,On Leave
+Taylor,2025-08-13,Absent
+Riley,2025-10-19,On Leave
+Jordan,2025-01-19,Late
+Peyton,2025-08-16,Absent
+Avery,2025-11-24,On Leave
+Morgan,2025-07-15,Late
+Alex,2025-02-10,Present
+Quinn,2025-07-26,On Leave
+Taylor,2025-11-15,Late
+Casey,2025-10-26,Late
+Alex,2025-02-12,Absent
+Morgan,2025-12-21,Present
+Casey,2025-08-19,Present
+Avery,2025-10-16,Late
+Morgan,2025-05-01,Present
+Riley,2025-05-09,Late
+Jamie,2025-12-22,On Leave
+Jordan,2025-07-18,On Leave
+Casey,2025-01-17,Late
+Quinn,2025-06-06,Absent
+Alex,2025-12-29,Present
+Quinn,2025-10-24,Late
+Casey,2025-02-01,Absent
+Peyton,2025-03-29,Present
+Quinn,2025-06-08,On Leave
+Taylor,2025-02-11,Absent
+Jordan,2025-12-01,Late
+Benjamin,2025-03-14,On Leave
+Taylor,2025-05-22,Present
+Quinn,2025-11-08,On Leave
+Avery,2025-06-03,Absent
+Riley,2025-11-09,On Leave
+Jamie,2025-01-12,Absent
+Riley,2025-03-18,On Leave
+Casey,2025-07-22,On Leave
+Jordan,2025-09-30,Late
+Casey,2025-01-01,Absent
+Morgan,2025-03-06,Present
+Casey,2025-10-02,Absent
+Casey,2025-01-06,On Leave
+Casey,2025-05-03,Late
+Peyton,2025-02-07,Present
+Riley,2025-04-28,Present
+Peyton,2025-02-02,On Leave
+Quinn,2025-05-01,Absent
+Riley,2025-11-23,On Leave
+Avery,2025-12-31,Present
+Avery,2025-04-19,On Leave
+Jamie,2025-07-07,Present
+Peyton,2025-03-14,Late
+Riley,2025-11-17,Present
+Jamie,2025-09-01,Late
+Jordan,2025-01-06,Absent
+Riley,2025-10-20,Late
+Quinn,2025-04-27,On Leave
+Jamie,2025-04-20,On Leave
+Casey,2025-02-25,Absent
+Taylor,2025-08-01,Absent
+Jamie,2025-01-30,Absent
+Avery,2025-03-21,On Leave
+Quinn,2025-11-09,On Leave
+Alex,2025-11-16,Late
+Quinn,2025-11-09,Present
+Jordan,2025-08-27,Absent
+Jamie,2025-06-11,Late
+Jamie,2025-06-17,Absent
+Alex,2025-01-09,Late
+Riley,2025-02-17,On Leave
+Jamie,2025-11-17,On Leave
+Jamie,2025-10-06,Absent
+Casey,2025-06-05,Present
+Brandon,2025-08-27,Present
+Taylor,2025-12-22,Absent
+Peyton,2025-08-29,Late
+Peyton,2025-06-01,Absent
+Jordan,2025-02-11,Present
+Peyton,2025-02-10,On Leave
+Jamie,2025-06-23,On Leave
+Peyton,2025-12-15,Late
+Avery,2025-12-07,On Leave
+Peyton,2025-06-19,On Leave
+Jamie,2025-01-27,On Leave
+Quinn,2025-08-11,Absent
+Quinn,2025-03-21,Present
+Riley,2025-04-17,Late
+Alex,2025-02-09,Absent
+Avery,2025-09-20,Present
+Taylor,2025-01-09,Present
+Riley,2025-01-20,Late
+Alex,2025-05-06,On Leave
+Morgan,2025-06-26,On Leave
+Casey,2025-03-16,Late
+Taylor,2025-11-06,Present
+Casey,2025-09-13,Absent
+Avery,2025-04-02,On Leave
+Alex,2025-04-27,Absent
+Peyton,2025-04-20,Present
+Riley,2025-08-11,On Leave
+Jordan,2025-06-02,On Leave
+Jamie,2025-08-19,Present
+Avery,2025-09-03,Absent
+Morgan,2025-04-13,On Leave
+Quinn,2025-06-11,Present
+Peyton,2025-12-22,On Leave
+Morgan,2025-06-18,Absent
+Avery,2025-12-27,Late
+Alex,2025-05-24,Present
+Casey,2025-04-18,Absent
+Taylor,2025-09-05,Late
+Riley,2025-02-22,Late
+Avery,2025-09-11,Late
+Quinn,2025-06-06,On Leave
+Jordan,2025-02-23,Late
+Quinn,2025-01-25,Present
+Morgan,2025-08-14,Present
+Avery,2025-04-24,Absent
+Quinn,2025-07-10,On Leave
+Taylor,2025-03-20,Present
+Morgan,2025-02-07,On Leave
+Alex,2025-12-20,Present
+Morgan,2025-12-16,Absent
+Alex,2025-08-28,Absent
+Taylor,2025-06-11,Late
+Jamie,2025-06-21,Late
+Casey,2025-04-23,On Leave
+Peyton,2025-08-29,On Leave
+Jordan,2025-08-26,On Leave
+Alex,2025-01-17,Late
+Taylor,2025-08-20,Present
+Jamie,2025-07-15,Present
+Riley,2025-03-07,Absent
+Peyton,2025-01-21,Late
+Jamie,2025-04-24,Present
+Avery,2025-09-18,Late
+Casey,2025-11-12,On Leave
+Taylor,2025-12-31,Present
+Justin,2025-04-10,Absent
+Riley,2025-01-15,Present
+Alex,2025-07-05,Present
+Taylor,2025-01-17,On Leave
+Taylor,2025-06-08,Absent
+Alex,2025-09-22,On Leave
+Avery,2025-10-12,On Leave
+Alex,2025-07-01,Absent
+Morgan,2025-08-19,Absent
+Casey,2025-07-16,Absent
+Riley,2025-08-25,Present
+Morgan,2025-10-22,Absent
+Taylor,2025-07-30,Present
+Avery,2025-10-24,Late
+Riley,2025-12-20,Absent
+Riley,2025-01-15,On Leave
+Avery,2025-04-19,Absent
+Jordan,2025-01-09,Absent
+Jordan,2025-04-10,Late
+Peyton,2025-11-08,Absent
+Peyton,2025-05-19,On Leave
+Taylor,2025-12-23,On Leave
+Riley,2025-10-19,On Leave
+Jamie,2025-08-08,Absent
+Taylor,2025-04-14,Late
+Casey,2025-07-26,Late
+Jordan,2025-11-27,Late
+Jamie,2025-09-09,On Leave
+Morgan,2025-06-04,Late
+Alex,2025-10-01,Absent
+Morgan,2025-02-21,Absent
+Peyton,2025-07-22,Present
+Morgan,2025-05-05,Late
+Quinn,2025-01-16,Present
+Avery,2025-10-31,Late
+Riley,2025-01-03,Present
+Quinn,2025-09-26,Absent
+Jamie,2025-04-22,Present
+Casey,2025-04-30,Absent
+Morgan,2025-01-06,Late
+Jamie,2025-04-02,Present
+Riley,2025-03-02,Present
+Peyton,2025-12-17,On Leave
+Jamie,2025-04-24,Late
+Taylor,2025-02-06,Late
+Peyton,2025-12-20,Present
+Jordan,2025-02-14,On Leave
+Quinn,2025-05-03,Absent
+Jordan,2025-06-19,Late
+Alex,2025-03-04,Absent
+Jacob,2025-06-06,Absent
+Riley,2025-10-01,Late
+Jordan,2025-09-28,Late
+Riley,2025-03-04,Late
+Peyton,2025-03-17,Late
+Peyton,2025-05-16,On Leave
+Morgan,2025-03-02,Present
+Alex,2025-09-30,Absent
+Alex,2025-10-05,Late
+Casey,2025-07-03,Absent
+Morgan,2025-06-14,Absent
+Quinn,2025-10-04,Late
+Quinn,2025-03-17,On Leave
+Quinn,2025-10-29,On Leave
+Morgan,2025-07-27,On Leave
+Jordan,2025-11-08,Present
+Taylor,2025-07-07,Late
+Jordan,2025-03-15,Absent
+Jordan,2025-03-24,Late
+Quinn,2025-10-17,Absent
+Alex,2025-03-30,Late
+Jamie,2025-07-02,Absent
+Casey,2025-10-17,On Leave
+Avery,2025-11-03,Present
+Morgan,2025-03-13,Late
+Morgan,2025-12-31,Absent
+Alex,2025-04-22,Late
+Alex,2025-02-17,Absent
+Taylor,2025-11-13,Late
+Riley,2025-08-14,Present
+Jamie,2025-01-19,Late
+Casey,2025-05-03,Present
+Casey,2025-04-24,On Leave
+Avery,2025-10-13,Absent
+Quinn,2025-11-20,Present
+Riley,2025-01-18,Absent
+Riley,2025-08-22,Present
+Avery,2025-06-22,On Leave
+Jordan,2025-11-23,Present
+Quinn,2025-06-20,Late
+Alex,2025-09-19,On Leave
+Jordan,2025-02-13,Present
+Avery,2025-03-20,Present
+Casey,2025-11-19,Present
+Avery,2025-10-10,On Leave
+Quinn,2025-11-14,Absent
+Quinn,2025-09-03,Absent
+Jordan,2025-07-20,Late
+Jordan,2025-10-29,Absent
+Riley,2025-05-15,Present
+Morgan,2025-06-21,On Leave
+Morgan,2025-07-03,Present
+Taylor,2025-12-16,Late
+Avery,2025-01-24,Absent
+Riley,2025-10-25,On Leave
+Quinn,2025-12-31,Absent
+Alex,2025-12-11,Late
+Riley,2025-07-07,Present
+Avery,2025-07-04,On Leave
+Peyton,2025-01-28,Late
+Casey,2025-08-23,Late
+Quinn,2025-02-08,Present
+Jamie,2025-12-15,Late
+Jamie,2025-05-15,Absent
+Avery,2025-02-25,Present
+Peyton,2025-06-28,Absent
+Taylor,2025-02-03,Absent
+Riley,2025-06-03,On Leave
+Morgan,2025-12-30,Present
+Alex,2025-10-09,Present
+Quinn,2025-03-08,Late
+Jamie,2025-03-24,Present
+Avery,2025-12-23,Absent
+Quinn,2025-06-01,Late
+Morgan,2025-12-01,Present
+Jordan,2025-02-07,On Leave
+Morgan,2025-11-08,Late
+Alex,2025-09-06,Absent
+Jordan,2025-07-04,Present
+Casey,2025-04-04,Absent
+Alex,2025-04-01,On Leave
+Jordan,2025-07-25,Present
+Riley,2025-01-26,On Leave
+Jamie,2025-12-30,Absent
+Morgan,2025-07-03,On Leave
+Morgan,2025-07-19,Present
+Taylor,2025-03-23,Late
+Jamie,2025-08-19,Absent
+Jamie,2025-01-09,Late
+Taylor,2025-09-17,Absent
+Taylor,2025-09-02,On Leave
+Avery,2025-11-12,Late
+Taylor,2025-06-22,Present
+Casey,2025-04-01,Present
+Riley,2025-11-11,On Leave
+Morgan,2025-12-13,Present
+Alex,2025-02-19,Late
+Scott,2025-06-25,Present
+Taylor,2025-07-16,Absent
+Pamela,2025-03-21,Present
+Avery,2025-08-28,Present
+Alex,2025-04-09,Absent
+Alex,2025-05-20,Late
+Jordan,2025-08-15,Present
+Alex,2025-01-27,Absent
+Morgan,2025-09-21,Absent
+Taylor,2025-01-25,Absent
+Peyton,2025-08-07,On Leave
+Peyton,2025-04-22,On Leave
+Riley,2025-06-15,Late
+Peyton,2025-01-03,On Leave
+Avery,2025-04-22,Present
+Peyton,2025-05-09,Absent
+Riley,2025-11-05,Late
+Avery,2025-04-28,Present
+Casey,2025-05-30,Absent
+Casey,2025-07-10,On Leave
+Riley,2025-08-07,Absent
+Peyton,2025-08-09,Late
+Avery,2025-04-17,Present
+Jordan,2025-12-19,Absent
+Taylor,2025-07-15,Absent
+Taylor,2025-10-28,Present
+Alex,2025-02-10,Present
+Jordan,2025-09-15,Present
+Casey,2025-10-23,Late
+Avery,2025-01-30,Present
+Avery,2025-07-13,Present
+Jordan,2025-10-02,Late
+Morgan,2025-02-18,Absent
+Peyton,2025-04-16,Late
+Morgan,2025-03-28,Present
+Quinn,2025-01-06,On Leave
+Peyton,2025-08-26,Absent
+Peyton,2025-08-09,Late
+Morgan,2025-05-16,Absent
+Jordan,2025-12-26,On Leave
+Riley,2025-08-26,Present
+Jordan,2025-05-26,Late
+Morgan,2025-06-08,Absent
+Quinn,2025-10-22,On Leave
+Peyton,2025-04-30,Late
+Casey,2025-08-04,Absent
+Alex,2025-05-13,Late
+Jamie,2025-04-16,Absent
+Taylor,2025-06-09,Late
+Avery,2025-12-17,Absent
+Jamie,2025-01-08,Late
+Quinn,2025-04-06,On Leave
+Jamie,2025-02-13,Late
+Taylor,2025-12-10,Present
+Riley,2025-06-19,On Leave
+Jordan,2025-02-19,On Leave
+Avery,2025-05-09,Present
+Avery,2025-11-04,On Leave
+Peyton,2025-11-02,Late
+Taylor,2025-12-05,Late
+Taylor,2025-08-22,Late
+Avery,2025-01-10,Present
+Avery,2025-05-21,Present
+Avery,2025-07-28,Late
+Casey,2025-01-13,Absent
+Avery,2025-12-17,Late
+Jamie,2025-10-10,On Leave
+Jordan,2025-11-23,Present
+Taylor,2025-11-26,Absent
+Avery,2025-11-15,Late
+Taylor,2025-04-03,Late
+Peyton,2025-07-08,On Leave
+Peyton,2025-06-25,Absent
+Alex,2025-02-10,Present
+Avery,2025-05-28,Present
+Quinn,2025-04-21,On Leave
+Jordan,2025-10-07,Late
+Avery,2025-07-27,On Leave
+Alex,2025-08-12,Present
+Quinn,2025-12-22,On Leave
+Casey,2025-04-06,Absent
+Quinn,2025-02-10,Late
+Taylor,2025-02-25,Late
+Riley,2025-12-14,Absent
+Jamie,2025-01-05,Late
+Avery,2025-05-19,On Leave
+Alex,2025-07-30,Late
+Quinn,2025-10-29,Late
+Jordan,2025-08-21,Present
+Jamie,2025-12-15,On Leave
+Jordan,2025-04-29,Absent
+Peyton,2025-04-27,Absent
+Casey,2025-05-11,Present
+Peyton,2025-06-17,On Leave
+Taylor,2025-10-09,Late
+Jamie,2025-01-13,On Leave
+Riley,2025-05-03,Late
+Riley,2025-08-11,Present
+John,2025-03-01,Absent
+Peyton,2025-03-07,On Leave
+Quinn,2025-10-23,Present
+Alex,2025-06-18,Present
+Casey,2025-06-19,Absent
+Jamie,2025-03-26,On Leave
+Quinn,2025-06-22,Present
+Avery,2025-06-06,Late
+Peyton,2025-03-11,Late
+Alex,2025-08-25,Absent
+Avery,2025-12-07,On Leave
+Jamie,2025-09-07,Absent
+Quinn,2025-08-16,Present
+Morgan,2025-03-11,On Leave
+Avery,2025-12-08,Absent
+Taylor,2025-09-19,Present
+Jordan,2025-08-21,Late
+Jamie,2025-05-16,Late
+Taylor,2025-03-30,Absent
+Casey,2025-05-27,On Leave
+Peyton,2025-06-21,On Leave
+Taylor,2025-11-09,Late
+Casey,2025-01-31,On Leave
+Alex,2025-09-02,Late
+Avery,2025-12-13,Absent
+Jamie,2025-03-05,Present
+Morgan,2025-04-27,On Leave
+Casey,2025-05-27,Late
+Avery,2025-12-05,On Leave
+Morgan,2025-09-18,Present
+Casey,2025-12-15,Present
+Jamie,2025-02-23,Late
+Jamie,2025-07-20,Absent
+Avery,2025-01-30,Absent
+Riley,2025-09-28,Present
+Jordan,2025-01-14,Absent
+Jamie,2025-06-21,Late
+Morgan,2025-02-19,On Leave
+Jamie,2025-12-26,Late
+Alex,2025-12-14,On Leave
+Casey,2025-12-08,Absent
+Alex,2025-04-30,Late
+Riley,2025-11-12,Present
+Quinn,2025-11-16,Absent
+Morgan,2025-09-06,Absent
+Jamie,2025-04-13,On Leave
+Alex,2025-05-07,Present
+Jordan,2025-01-17,Absent
+Morgan,2025-10-04,Absent
+Riley,2025-10-02,Present
+Taylor,2025-02-23,Late
+Quinn,2025-03-20,Present
+Avery,2025-02-13,Absent
+Taylor,2025-01-24,Present
+Jamie,2025-05-11,Present
+Riley,2025-04-11,Present
+Riley,2025-06-18,Late
+Riley,2025-07-20,Present
+Casey,2025-10-18,Late
+Taylor,2025-01-01,On Leave
+Morgan,2025-07-17,Late
+Avery,2025-10-18,On Leave
+Avery,2025-07-05,On Leave
+Jamie,2025-07-20,On Leave
+Alex,2025-03-10,Present
+Quinn,2025-02-15,Late
+Riley,2025-06-18,Present
+Jordan,2025-12-11,Late
+Riley,2025-06-21,Late
+Peyton,2025-03-17,Absent
+Avery,2025-01-14,On Leave
+Morgan,2025-11-29,Present
+Alex,2025-02-07,Late
+Taylor,2025-06-30,Present
+Quinn,2025-05-30,On Leave
+Jordan,2025-11-23,On Leave
+Morgan,2025-01-16,Present
+Peyton,2025-06-16,Present
+Quinn,2025-05-26,On Leave
+Jordan,2025-12-17,Absent
+Jordan,2025-01-26,Absent
+Casey,2025-10-07,Late
+Riley,2025-05-01,Absent
+Jordan,2025-04-24,Present
+Quinn,2025-01-28,On Leave
+Taylor,2025-01-30,On Leave
+Quinn,2025-03-02,Present
+Avery,2025-11-06,Absent
+Susan,2025-11-24,Absent
+Jamie,2025-12-11,On Leave
+Riley,2025-05-17,Absent
+Jamie,2025-06-13,Present
+Casey,2025-06-14,Absent
+Riley,2025-03-28,Present
+Riley,2025-11-01,On Leave
+Avery,2025-12-10,On Leave
+Casey,2025-03-11,On Leave
+Alex,2025-11-14,Present
+Avery,2025-12-09,Late
+Morgan,2025-07-03,Absent
+Peyton,2025-09-25,Absent
+Riley,2025-09-14,On Leave
+Riley,2025-10-14,Late
+Kevin,2025-11-30,Absent
+Quinn,2025-06-24,Absent
+Riley,2025-07-01,Late
+Jamie,2025-06-02,Absent
+Riley,2025-09-12,On Leave
+Avery,2025-03-09,On Leave
+Jamie,2025-04-02,Absent
+Morgan,2025-09-28,Absent
+Quinn,2025-08-19,Late
+Jordan,2025-12-13,Present
+Jordan,2025-12-13,On Leave
+Alex,2025-11-05,Late
+Jordan,2025-11-07,Late
+Alex,2025-08-12,Late
+Casey,2025-07-16,Late
+Avery,2025-05-01,Absent
+Jamie,2025-01-16,Present
+Riley,2025-02-21,Absent
+Alex,2025-06-14,Absent
+Taylor,2025-03-30,On Leave
+Avery,2025-08-21,Late
+Taylor,2025-06-23,Absent
+Morgan,2025-05-17,Late
+Morgan,2025-06-04,Present
+Taylor,2025-05-19,Present
+Jamie,2025-01-16,Late
+Jordan,2025-06-16,Late
+Peyton,2025-07-10,On Leave
+Avery,2025-03-10,Present
+Jordan,2025-04-26,On Leave
+Peyton,2025-04-06,Present
+Riley,2025-05-18,Late
+Quinn,2025-11-20,Present
+Riley,2025-02-06,Present
+Riley,2025-01-14,On Leave
+Taylor,2025-08-06,On Leave
+Quinn,2025-03-05,Present
+Alex,2025-06-22,On Leave
+Jordan,2025-11-24,Absent
+Alex,2025-02-24,Present
+Peyton,2025-07-06,On Leave
+Avery,2025-03-17,Late
+Jamie,2025-03-18,On Leave
+Taylor,2025-08-03,Absent
+Jordan,2025-03-30,On Leave
+Morgan,2025-11-22,Absent
+Jamie,2025-10-27,On Leave
+Taylor,2025-08-09,On Leave
+Peyton,2025-11-08,Absent
+Alex,2025-02-23,Late
+Peyton,2025-04-25,Present
+Peyton,2025-01-07,Absent
+Jordan,2025-02-08,Late
+Jamie,2025-07-29,On Leave
+Avery,2025-12-27,Absent
+Jason,2025-02-19,Absent
+Morgan,2025-06-21,Present
+Jamie,2025-07-15,On Leave
+Riley,2025-10-12,On Leave
+Jamie,2025-09-13,Absent
+Quinn,2025-09-23,Present
+Alex,2025-05-10,Present
+Morgan,2025-07-14,Late
+Riley,2025-05-31,On Leave
+Amanda,2025-10-14,On Leave
+Quinn,2025-09-18,Late
+Taylor,2025-03-02,On Leave
+Taylor,2025-03-19,On Leave
+Riley,2025-10-22,Present
+Morgan,2025-01-18,Present
+Avery,2025-08-06,Present
+Carolyn,2025-05-15,Absent
+Quinn,2025-09-19,Present
+Casey,2025-08-17,Absent
+Jamie,2025-08-03,On Leave
+Jordan,2025-08-16,Absent
+Taylor,2025-01-16,On Leave
+Riley,2025-04-12,Present
+Alex,2025-07-07,Late
+Jordan,2025-08-31,Late
+Riley,2025-07-02,Present
+Casey,2025-04-21,Late
+Riley,2025-09-28,Late
+Morgan,2025-03-30,Late
+Morgan,2025-08-12,Absent
+Jamie,2025-07-19,Present
+Taylor,2025-11-03,On Leave
+Avery,2025-11-18,On Leave
+Morgan,2025-04-19,On Leave
+Peyton,2025-04-22,On Leave
+Peyton,2025-11-04,Present
+Casey,2025-12-01,Absent
+Peyton,2025-11-29,Absent
+Jamie,2025-06-04,Absent
+Alex,2025-05-12,Absent
+Riley,2025-11-18,Absent
+Riley,2025-03-17,Late
+Avery,2025-09-25,On Leave
+Alex,2025-01-25,Late
+Alex,2025-08-24,Present
+Peyton,2025-10-12,Late
+Morgan,2025-10-02,Absent
+Jordan,2025-04-22,Late
+Avery,2025-10-26,Absent
+Avery,2025-05-12,Absent
+Casey,2025-06-09,Absent
+Riley,2025-09-04,On Leave
+Peyton,2025-09-14,Absent
+Taylor,2025-03-25,Late
+Casey,2025-03-20,On Leave
+Taylor,2025-10-25,Late
+Morgan,2025-02-18,Present
+Taylor,2025-07-29,Absent
+Jamie,2025-10-18,Late
+Morgan,2025-10-07,Late
+Alex,2025-11-07,Absent
+Taylor,2025-01-23,Present
+Morgan,2025-11-29,Late
+Jordan,2025-11-21,Present
+Jamie,2025-04-18,Late
+Alex,2025-11-27,Absent
+Peyton,2025-09-08,On Leave
+Morgan,2025-05-02,Present
+Quinn,2025-01-25,Absent
+Avery,2025-06-21,Absent
+Jordan,2025-10-08,On Leave
+Alex,2025-08-23,Present
+Peyton,2025-01-24,On Leave
+Casey,2025-08-22,Present
+Casey,2025-11-27,Late
+Jamie,2025-12-01,Absent
+Morgan,2025-11-23,Present
+Jamie,2025-11-21,On Leave
+Alex,2025-06-26,Absent
+Casey,2025-07-18,On Leave
+Riley,2025-05-09,Absent
+Peyton,2025-04-05,On Leave
+Taylor,2025-01-25,Absent
+Casey,2025-04-04,Present
+Avery,2025-10-14,Late
+Quinn,2025-10-12,Present
+Alex,2025-03-21,Present
+Quinn,2025-02-04,Late
+Avery,2025-06-21,Absent
+Morgan,2025-07-05,Present
+Casey,2025-04-28,Absent
+Avery,2025-10-31,Late
+Jamie,2025-10-18,Late
+Jamie,2025-12-04,On Leave
+Morgan,2025-02-18,Absent
+Alex,2025-03-15,Present
+Peyton,2025-08-21,On Leave
+Peyton,2025-12-03,Late
+Jordan,2025-10-25,Absent
+Peyton,2025-05-11,Present
+Jordan,2025-02-26,Absent
+Alex,2025-08-10,Present
+Morgan,2025-03-12,Late
+Jordan,2025-10-26,Absent
+Morgan,2025-10-26,Late
+Casey,2025-04-01,Late
+Jordan,2025-09-11,Absent
+Quinn,2025-11-22,Absent
+Quinn,2025-08-21,On Leave
+Alex,2025-12-26,Present
+Morgan,2025-03-10,Present
+Casey,2025-10-18,Late
+Jordan,2025-09-29,On Leave
+Casey,2025-12-25,Absent
+Quinn,2025-03-12,On Leave
+Morgan,2025-05-27,Present
+Jordan,2025-02-26,Late
+Peyton,2025-01-24,Late
+Quinn,2025-12-07,Absent
+Jordan,2025-10-02,Late
+Riley,2025-06-28,Present
+Jordan,2025-07-13,Late
+Quinn,2025-10-19,Absent
+Morgan,2025-04-28,Late
+Avery,2025-06-11,Absent
+Avery,2025-03-09,Late
+Jamie,2025-09-24,On Leave
+Peyton,2025-11-04,Absent
+Jamie,2025-04-27,Present
+Casey,2025-07-09,On Leave
+Casey,2025-02-04,Present
+Alex,2025-02-20,Present
+Alex,2025-08-31,Absent
+Morgan,2025-05-16,Present
+Casey,2025-06-29,Present
+Alex,2025-10-29,On Leave
+Taylor,2025-11-26,Absent
+Alex,2025-06-29,Late
+Morgan,2025-05-26,Present
+Casey,2025-11-30,On Leave
+Avery,2025-06-11,Present
+Alex,2025-05-23,On Leave
+Quinn,2025-03-24,On Leave
+Quinn,2025-07-28,Absent
+Riley,2025-06-04,On Leave
+Morgan,2025-05-03,Late
+Jordan,2025-12-20,Late
+Quinn,2025-11-10,Late
+Jamie,2025-06-07,On Leave
+Casey,2025-05-31,Late
+Avery,2025-08-06,Present
+Jordan,2025-02-03,On Leave
+Alex,2025-09-09,Present
+Avery,2025-11-04,Late
+Alex,2025-11-18,Late
+Riley,2025-06-02,Present
+Avery,2025-07-10,Present
+Morgan,2025-10-13,Present
+Jamie,2025-03-01,Late
+Avery,2025-07-07,Late
+Peyton,2025-04-07,Present
+Jamie,2025-07-30,Present
+Riley,2025-03-29,Absent
+Jamie,2025-05-15,On Leave
+Riley,2025-04-21,Present
+Riley,2025-09-17,Late
+Peyton,2025-02-15,Late
+Taylor,2025-10-23,On Leave
+Peyton,2025-06-10,Late
+Robert,2025-04-17,Present
+Quinn,2025-03-15,Absent
+Riley,2025-12-28,Absent
+Jamie,2025-12-17,On Leave
+Casey,2025-07-27,Absent
+Riley,2025-12-07,Present
+Avery,2025-08-26,Present
+Alex,2025-01-24,On Leave
+Alex,2025-08-23,Present
+Jamie,2025-06-15,On Leave
+Joseph,2025-09-22,On Leave
+Jordan,2025-01-02,Late
+Jamie,2025-06-02,Late
+Jamie,2025-04-27,Present
+Riley,2025-05-02,Absent
+Riley,2025-11-28,Absent
+Avery,2025-05-02,Late
+Quinn,2025-04-23,Present
+Morgan,2025-08-21,Late
+Quinn,2025-02-16,On Leave
+Riley,2025-06-12,On Leave
+Quinn,2025-07-24,Absent
+Morgan,2025-06-18,Present
+Morgan,2025-01-06,Present
+Casey,2025-02-23,Present
+Casey,2025-11-06,Present
+Peyton,2025-10-06,Absent
+Jordan,2025-12-27,Absent
+Casey,2025-09-30,On Leave
+Casey,2025-04-02,On Leave
+Morgan,2025-08-30,Absent
+Barbara,2025-02-04,Late
+Avery,2025-11-15,Late
+Jordan,2025-03-07,Late
+Casey,2025-10-04,Absent
+Jordan,2025-02-12,Late
+Christine,2025-08-27,On Leave
+Taylor,2025-12-05,On Leave
+Jordan,2025-09-16,Present
+Alex,2025-12-04,Absent
+Casey,2025-12-31,Present
+Casey,2025-06-20,Absent
+Quinn,2025-01-29,On Leave
+Casey,2025-03-25,Absent
+Peyton,2025-05-28,Absent
+Jamie,2025-10-07,On Leave
+Jamie,2025-11-16,On Leave
+Casey,2025-06-05,Absent
+Jamie,2025-01-19,Absent
+Jordan,2025-12-05,On Leave
+Morgan,2025-07-01,On Leave
+Alex,2025-07-08,On Leave
+Jordan,2025-01-17,Absent
+Avery,2025-07-12,Present
+Riley,2025-06-20,Absent
+Jordan,2025-01-06,Absent
+Morgan,2025-09-18,Present
+Taylor,2025-11-27,Absent
+Jamie,2025-03-24,Absent
+Casey,2025-07-14,Present
+Morgan,2025-05-07,On Leave
+Quinn,2025-02-09,Present
+Quinn,2025-12-01,Absent
+Morgan,2025-08-11,On Leave
+Morgan,2025-04-28,Absent
+Avery,2025-03-29,Absent
+Jordan,2025-04-13,Present
+Alex,2025-05-21,Absent
+Casey,2025-03-05,On Leave
+Casey,2025-03-30,Present
+Avery,2025-08-01,Present
+Riley,2025-03-01,On Leave
+Avery,2025-12-24,Absent
+Peyton,2025-11-09,Present
+Jamie,2025-09-09,Present
+Jordan,2025-08-02,Absent
+Jamie,2025-11-06,On Leave
+Peyton,2025-03-06,Present
+Taylor,2025-08-21,Present
+Peyton,2025-02-05,Present
+Peyton,2025-10-28,On Leave
+Peyton,2025-05-07,Present
+Quinn,2025-01-08,Present
+Morgan,2025-04-02,Present
+Morgan,2025-12-18,Absent
+Morgan,2025-07-28,Late
+Riley,2025-06-28,Absent
+Alex,2025-07-19,Absent
+Quinn,2025-03-05,Late
+Avery,2025-05-18,Late
+Quinn,2025-09-12,Present
+Peyton,2025-11-05,Present
+Jordan,2025-07-05,Present
+George,2025-09-15,Absent
+Avery,2025-12-12,Present
+Peyton,2025-09-09,Present
+Morgan,2025-05-04,Late
+Casey,2025-07-25,Absent
+Quinn,2025-05-18,On Leave
+Jordan,2025-06-09,On Leave
+Avery,2025-12-09,Present
+Jamie,2025-02-13,Late
+Peyton,2025-04-09,Absent
+Jamie,2025-05-11,Late
+Alex,2025-12-20,Present
+Avery,2025-04-01,Present
+Casey,2025-05-07,Absent
+Morgan,2025-04-13,On Leave
+Quinn,2025-01-19,Late
+Alex,2025-02-11,Late
+Morgan,2025-03-27,Late
+Avery,2025-05-02,Late
+Quinn,2025-08-23,Present
+Morgan,2025-02-05,Absent
+Riley,2025-03-20,Present
+Jamie,2025-08-15,Present
+Peyton,2025-04-13,Absent
+Morgan,2025-01-07,Late
+Alex,2025-02-16,Late
+Casey,2025-05-04,Absent
+Casey,2025-07-11,On Leave
+Riley,2025-07-02,Present
+Morgan,2025-03-21,Present
+Jamie,2025-08-12,Absent
+Jamie,2025-08-06,Absent
+Peyton,2025-03-07,Late
+Avery,2025-01-28,On Leave
+Jordan,2025-01-11,Late
+Alex,2025-12-25,Absent
+Quinn,2025-02-19,Late
+Alex,2025-06-18,On Leave
+Alex,2025-08-06,Absent
+Avery,2025-10-15,On Leave
+Avery,2025-03-15,On Leave
+Gregory,2025-06-14,Absent
+Peyton,2025-10-30,Late
+Morgan,2025-01-01,On Leave
+Jamie,2025-07-28,Present
+Taylor,2025-03-21,Absent
+Jordan,2025-05-20,Late
+Riley,2025-07-24,On Leave
+Edward,2025-06-07,Late
+Casey,2025-05-14,On Leave
+Alex,2025-07-05,Present
+Alex,2025-01-07,On Leave
+Morgan,2025-12-29,Late
+Jamie,2025-12-20,Absent
+Alex,2025-06-14,On Leave
+Riley,2025-10-10,Present
+Casey,2025-03-05,Late
+Casey,2025-08-08,Present
+Jordan,2025-05-22,Present
+Avery,2025-03-28,Present
+Riley,2025-05-03,Late
+Morgan,2025-02-05,Present
+Peyton,2025-12-01,Absent
+Riley,2025-07-17,On Leave
+Jamie,2025-10-31,Late
+Peyton,2025-03-27,Present
+Riley,2025-03-11,Present
+Taylor,2025-03-22,Absent
+Jamie,2025-04-24,Late
+Riley,2025-12-31,Present
+Taylor,2025-04-13,On Leave
+Jordan,2025-10-03,Absent
+Alex,2025-08-26,Absent
+Alex,2025-04-01,Late
+Avery,2025-04-07,Present
+Jamie,2025-01-29,Late
+Casey,2025-05-20,Late
+Alex,2025-07-07,On Leave
+Alex,2025-08-10,Absent
+Alex,2025-06-24,Present
+Peyton,2025-05-05,On Leave
+Quinn,2025-05-02,Absent
+Quinn,2025-04-24,Present
+Alex,2025-04-23,Present
+Jordan,2025-01-19,On Leave
+Peyton,2025-03-27,On Leave
+Alex,2025-01-23,Absent
+Alex,2025-12-12,On Leave
+Quinn,2025-07-09,Present
+Jordan,2025-01-24,On Leave
+Peyton,2025-07-04,Present
+Casey,2025-04-29,Absent
+Alex,2025-10-09,Late
+Morgan,2025-02-07,On Leave
+Morgan,2025-09-26,Absent
+Riley,2025-09-08,Late
+Peyton,2025-05-21,On Leave
+Jamie,2025-02-03,Absent
+Jordan,2025-03-27,On Leave
+Riley,2025-03-18,Absent
+Quinn,2025-09-22,Absent
+Quinn,2025-02-09,On Leave
+Casey,2025-05-22,Present
+Morgan,2025-08-11,Present
+Casey,2025-07-01,Present
+Quinn,2025-06-17,Absent
+Alex,2025-01-18,Late
+Quinn,2025-08-19,Absent
+Taylor,2025-10-26,Late
+Jamie,2025-11-09,Present
+Casey,2025-09-28,Present
+Michelle,2025-02-12,Absent
+Taylor,2025-02-03,Present
+Casey,2025-10-26,Late
+Quinn,2025-12-27,On Leave
+Quinn,2025-07-11,Late
+Jamie,2025-05-07,Present
+Alex,2025-08-06,Absent
+Morgan,2025-07-29,Present
+Casey,2025-11-19,Absent
+Brian,2025-05-30,Absent
+Jordan,2025-07-26,Absent
+Taylor,2025-10-01,Absent
+Jordan,2025-06-16,On Leave
+Jordan,2025-11-10,On Leave
+Riley,2025-02-13,Late
+Peyton,2025-12-17,On Leave
+Peyton,2025-04-20,On Leave
+Quinn,2025-03-10,Late
+Casey,2025-10-08,Present
+Jamie,2025-05-12,Absent
+Avery,2025-03-11,Absent
+Riley,2025-09-03,On Leave
+Alex,2025-10-01,Late
+Quinn,2025-12-07,Present
+Riley,2025-07-29,Absent
+Avery,2025-10-14,Late
+Jamie,2025-03-22,Present
+Avery,2025-02-11,Present
+Peyton,2025-05-06,Absent
+Avery,2025-12-12,On Leave
+Casey,2025-11-02,Present
+Taylor,2025-01-12,Absent
+Peyton,2025-03-21,On Leave
+Jordan,2025-04-19,Late
+Morgan,2025-11-02,Late
+Alex,2025-06-25,Present
+Peyton,2025-05-29,Present
+Morgan,2025-03-27,Absent
+Jordan,2025-08-25,On Leave
+Jamie,2025-03-06,Present
+Quinn,2025-05-25,Late
+Quinn,2025-08-21,Present
+Casey,2025-05-30,Absent
+Quinn,2025-06-13,Present
+Alex,2025-05-20,Absent
+Alex,2025-09-23,Absent
+Morgan,2025-10-14,Absent
+Peyton,2025-06-29,Absent
+Avery,2025-06-03,Late
+Peyton,2025-10-21,On Leave
+Peyton,2025-07-21,On Leave
+Alex,2025-05-23,On Leave
+Quinn,2025-02-05,On Leave
+Riley,2025-07-26,Late
+Taylor,2025-07-22,Absent
+Taylor,2025-09-17,Present
+Jordan,2025-02-08,Absent
+Casey,2025-07-13,On Leave
+Morgan,2025-01-08,Present
+Quinn,2025-09-25,Absent
+Taylor,2025-10-30,Late
+Jamie,2025-10-07,Present
+Morgan,2025-12-20,Absent
+Morgan,2025-03-15,On Leave
+Avery,2025-10-20,Late
+Quinn,2025-09-10,Present
+Jamie,2025-02-06,Late
+Morgan,2025-06-25,On Leave
+Avery,2025-03-26,Late
+Alex,2025-11-13,Absent
+Morgan,2025-09-25,On Leave
+Alex,2025-11-01,Present
+Alex,2025-09-07,Present
+Jordan,2025-11-26,Absent
+Alex,2025-09-11,Present
+Jordan,2025-01-23,Present
+Quinn,2025-01-29,Present
+Riley,2025-10-10,Absent
+Quinn,2025-05-02,Late
+Avery,2025-05-12,Late
+Taylor,2025-09-08,Present
+Taylor,2025-07-12,Present
+Avery,2025-01-06,Late
+Alex,2025-05-20,On Leave
+Taylor,2025-12-08,On Leave
+Taylor,2025-07-20,Absent
+Jordan,2025-01-23,Late
+Quinn,2025-04-13,Present
+Riley,2025-11-26,Present
+Quinn,2025-06-06,On Leave
+Jamie,2025-03-08,Late
+Quinn,2025-06-10,Absent
+Casey,2025-04-07,Absent
+Betty,2025-09-10,Absent
+Avery,2025-01-17,Absent
+Taylor,2025-02-13,Absent
+Riley,2025-08-14,Present
+Peyton,2025-09-22,Present
+Morgan,2025-03-21,On Leave
+Alex,2025-03-26,Late
+Avery,2025-01-05,On Leave
+Riley,2025-08-13,Absent
+Taylor,2025-10-19,Present
+Jamie,2025-01-03,Late
+Jordan,2025-09-29,Late
+Casey,2025-05-06,On Leave
+Jordan,2025-05-23,On Leave
+Riley,2025-07-16,On Leave
+Quinn,2025-01-23,On Leave
+Casey,2025-05-31,Present
+Casey,2025-08-11,Present
+Riley,2025-03-20,Present
+Riley,2025-04-08,Late
+Peyton,2025-12-20,Present
+Jordan,2025-08-08,Present
+Jamie,2025-10-24,Late
+Avery,2025-03-24,Present
+Quinn,2025-06-01,Present
+Riley,2025-07-25,Absent
+Morgan,2025-03-05,Late
+Nicholas,2025-03-21,Absent
+Casey,2025-02-12,Late
+Alex,2025-10-02,Absent
+Riley,2025-02-19,On Leave
+Morgan,2025-04-02,Late
+Avery,2025-02-09,On Leave
+Alex,2025-10-20,Absent
+Alex,2025-02-26,Absent
+Avery,2025-04-02,On Leave
+Peyton,2025-04-12,Late
+Casey,2025-09-04,On Leave
+Casey,2025-03-06,Late
+Quinn,2025-05-09,Absent
+Morgan,2025-04-24,Absent
+Taylor,2025-09-23,Present
+Peyton,2025-04-21,Present
+Alex,2025-08-04,Late
+Jordan,2025-01-19,Present
+Jordan,2025-11-03,Absent
+Taylor,2025-07-13,On Leave
+Avery,2025-12-13,Absent
+Peyton,2025-07-04,Late
+Riley,2025-02-21,Present
+Jamie,2025-09-01,Late
+Avery,2025-06-05,Present
+Casey,2025-03-22,Late
+Jordan,2025-06-19,Absent
+Jordan,2025-09-11,Absent
+Jordan,2025-03-09,Present
+Avery,2025-08-12,Absent
+Jamie,2025-03-20,Late
+Jordan,2025-12-31,Late
+Peyton,2025-08-07,Absent
+Quinn,2025-10-24,On Leave
+Riley,2025-12-28,Late
+Quinn,2025-09-25,Absent
+Peyton,2025-12-16,On Leave
+Riley,2025-10-24,Absent
+Morgan,2025-05-14,Present
+Morgan,2025-07-18,Absent
+Alex,2025-11-12,On Leave
+Riley,2025-12-30,Present
+Alex,2025-08-31,On Leave
+Avery,2025-05-17,On Leave
+Jamie,2025-10-09,Late
+Riley,2025-07-15,Late
+Taylor,2025-05-29,Absent
+Morgan,2025-01-26,Absent
+Casey,2025-03-31,On Leave
+Peyton,2025-05-03,Present
+Alex,2025-01-12,Present
+Casey,2025-06-17,Absent
+Jordan,2025-07-27,On Leave
+Jamie,2025-05-24,On Leave
+Peyton,2025-01-03,Late
+Alex,2025-10-04,Absent
+Riley,2025-02-03,Late
+Casey,2025-01-08,Present
+Taylor,2025-06-30,Late
+Alex,2025-11-10,On Leave
+Taylor,2025-10-06,Absent
+Riley,2025-10-08,Late
+Riley,2025-05-27,On Leave
+Riley,2025-09-02,Absent
+Riley,2025-09-19,Present
+Riley,2025-06-06,Absent
+Avery,2025-09-19,On Leave
+Jordan,2025-09-16,Late
+Jordan,2025-09-05,Present
+Quinn,2025-10-09,Present
+Riley,2025-12-12,On Leave
+Taylor,2025-11-20,Late
+Alex,2025-03-04,On Leave
+Quinn,2025-04-07,Present
+Morgan,2025-03-13,Absent
+Kathleen,2025-06-06,Absent
+Taylor,2025-06-24,Absent
+Jamie,2025-12-27,Present
+Casey,2025-10-24,On Leave
+Jordan,2025-04-11,On Leave
+Jamie,2025-12-24,On Leave
+Morgan,2025-10-08,Late
+Alex,2025-09-10,Late
+Morgan,2025-02-06,Present
+Peyton,2025-04-05,Late
+Casey,2025-12-22,On Leave
+Quinn,2025-12-28,Absent
+Quinn,2025-12-06,Late
+Taylor,2025-06-17,On Leave
+Riley,2025-08-21,On Leave
+Casey,2025-12-26,Present
+Taylor,2025-04-21,Late
+Avery,2025-10-18,Present
+Jamie,2025-07-26,Absent
+Taylor,2025-03-07,Present
+Alex,2025-03-06,Absent
+Casey,2025-10-31,Present
+Quinn,2025-11-22,Late
+Alex,2025-07-03,Absent
+Avery,2025-01-15,Present
+Alex,2025-04-04,Present
+Quinn,2025-06-21,Present
+Riley,2025-11-16,Absent
+Alex,2025-05-22,On Leave
+Peyton,2025-07-07,On Leave
+Taylor,2025-09-15,Present
+Quinn,2025-05-12,Present
+Quinn,2025-01-09,Absent
+Morgan,2025-02-13,Late
+Alex,2025-04-27,Present
+Riley,2025-05-19,Late
+Quinn,2025-12-19,Absent
+Alex,2025-08-22,Present
+Taylor,2025-06-12,Present
+Taylor,2025-11-16,On Leave
+Riley,2025-12-29,Absent
+Taylor,2025-02-14,Absent
+Jordan,2025-08-25,Absent
+Casey,2025-10-19,Present
+Avery,2025-02-12,Absent
+Riley,2025-07-13,Absent
+Riley,2025-04-24,On Leave
+Peyton,2025-12-09,On Leave
+Quinn,2025-12-13,On Leave
+Morgan,2025-01-28,Late
+Avery,2025-12-07,Present
+Casey,2025-11-14,Present
+Morgan,2025-12-01,Present
+Peyton,2025-04-09,Present
+Riley,2025-03-02,Late
+Jordan,2025-01-09,Late
+Morgan,2025-06-03,Late
+Jordan,2025-12-20,Late
+Casey,2025-08-16,Absent
+Jordan,2025-05-03,Present
+Peyton,2025-10-15,Present
+Peyton,2025-11-07,Late
+Quinn,2025-10-01,Present
+Peyton,2025-11-26,On Leave
+Avery,2025-07-05,Present
+Peyton,2025-05-12,Absent
+Morgan,2025-03-09,Late
+Taylor,2025-07-18,Late
+Taylor,2025-10-18,Absent
+Riley,2025-10-28,Late
+Peyton,2025-01-09,Absent
+Avery,2025-12-27,Present
+Peyton,2025-02-25,On Leave
+Peyton,2025-06-29,Absent
+Jordan,2025-07-29,Absent
+Avery,2025-05-17,On Leave
+Avery,2025-03-11,Present
+Riley,2025-11-13,Late
+Casey,2025-09-19,On Leave
+Paul,2025-10-09,Absent
+Quinn,2025-06-03,Late
+Jamie,2025-07-14,On Leave
+Riley,2025-01-24,On Leave
+Jamie,2025-10-13,Present
+Avery,2025-01-25,Late
+Jordan,2025-07-19,On Leave
+Riley,2025-09-12,Absent
+Avery,2025-10-04,Late
+Taylor,2025-06-22,On Leave
+Avery,2025-01-03,Late
+Alex,2025-07-21,On Leave
+Jamie,2025-10-30,Absent
+Peyton,2025-04-02,Absent
+Avery,2025-07-01,Present
+Morgan,2025-07-31,Late
+Riley,2025-06-25,Present
+Avery,2025-01-13,On Leave
+Morgan,2025-06-19,Late
+Quinn,2025-09-11,Present
+Casey,2025-09-13,Late
+Jordan,2025-03-24,On Leave
+Jamie,2025-09-24,Present
+Peyton,2025-11-20,Late
+Peyton,2025-11-06,Present
+Riley,2025-04-07,Absent
+Peyton,2025-10-28,Late
+Jordan,2025-03-01,Present
+Quinn,2025-03-29,On Leave
+Peyton,2025-04-15,Absent
+Jamie,2025-07-31,Present
+Quinn,2025-03-31,Present
+Taylor,2025-10-18,On Leave
+Avery,2025-10-17,Present
+Morgan,2025-05-28,Late
+Quinn,2025-06-06,Late
+Jamie,2025-08-20,Late
+Quinn,2025-10-16,Present
+Avery,2025-05-13,Late
+Riley,2025-12-24,Late
+Alex,2025-04-10,Absent
